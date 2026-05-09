@@ -1,0 +1,30 @@
+# Large source archive and cache trees stay out of GitHub.
+ufo_release/
+analysis/cache/
+analysis/embeddings/
+analysis/inventory_documents.csv
+analysis/clustering/document_clusters.csv
+analysis/anomaly/
+
+# Operational state from local embedding runs.
+scripts/__pycache__/
+__pycache__/
+.ipynb_checkpoints/
+
+# The raw Hugging Face staging mirror is kept locally, not committed.
+hf-usa-gov/*
+!hf-usa-gov/README.md
+!hf-usa-gov/.gitignore
+hf-usa-gov-embeddings/documents.csv
+hf-usa-gov-embeddings/document_embeddings.parquet
+hf-usa-gov-embeddings/anomaly/
+hf-usa-gov-embeddings/clustering/document_clusters.csv
+analysis-2.0/analysis2_manifest.json
+analysis-2.0/review_packet/cluster_centers.csv
+analysis-2.0/review_packet/random_baseline.csv
+analysis-2.0/usefulness_proxy/scientific_usefulness_proxy.csv
+
+# Keep the repo from accidentally swallowing notebook checkpoints or editor junk.
+*.swp
+*.swo
+*~

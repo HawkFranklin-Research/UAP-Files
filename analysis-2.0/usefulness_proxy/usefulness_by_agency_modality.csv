@@ -1,0 +1,9 @@
+Agency,File Group,count,mean,median
+Department of State,PDF,8,6.75,7.0
+Department of War,PDF,55,6.327272727272727,6.0
+Department of War,VID,24,6.375,6.0
+FBI,IMG,8,7.0,7.0
+FBI,PDF,48,6.25,7.0
+NASA,IMG,6,8.0,8.0
+NASA,PDF,9,5.888888888888889,5.0
+NASA,VID,1,7.0,7.0

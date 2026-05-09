@@ -1,0 +1,53 @@
+{
+  "raw_metadata_rows": 162,
+  "existing_metadata_rows": 162,
+  "distinct_physical_files": 159,
+  "raw_rows_by_file_group": {
+    "PDF": 120,
+    "VID": 28,
+    "IMG": 14
+  },
+  "distinct_files_by_file_group": {
+    "PDF": 120,
+    "VID": 25,
+    "IMG": 14
+  },
+  "distinct_files_by_extension": {
+    ".pdf": 120,
+    ".mp4": 25,
+    ".png": 8,
+    ".jpg": 6
+  },
+  "raw_rows_by_agency": {
+    "Department of War": 82,
+    "FBI": 56,
+    "NASA": 16,
+    "Department of State": 8
+  },
+  "distinct_files_by_agency": {
+    "Department of War": 79,
+    "FBI": 56,
+    "NASA": 16,
+    "Department of State": 8
+  },
+  "duplicate_output_paths": {
+    "ufo_release/Department of War/VID/DOW-UAP-D32__Mission_Report__Syria__October_2024.mp4": 3,
+    "ufo_release/Department of War/VID/DOW-UAP-D23__Mission_Report__United_Arab_Emirates__October_2023.mp4": 2
+  },
+  "total_size_mib": 3499.525,
+  "size_mib_by_file_group": {
+    "IMG": 14.529,
+    "PDF": 2362.985,
+    "VID": 1122.011
+  },
+  "pdf_pages": {
+    "known_count": 120,
+    "total_pages": 4185,
+    "max_pages": 290
+  },
+  "video_duration_sec": {
+    "known_count": 25,
+    "total_sec": 2180.96,
+    "max_sec": 371.6
+  }
+}

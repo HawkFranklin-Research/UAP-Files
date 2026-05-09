@@ -1,0 +1,6 @@
+cluster,size,dominant_agency,agency_purity,dominant_modality,modality_purity
+0,68,Department of War,1.0,PDF,0.6470588235294118
+1,33,FBI,1.0,PDF,0.7575757575757576
+2,7,Department of State,0.8571428571428571,PDF,1.0
+3,44,FBI,0.5227272727272727,PDF,1.0
+4,7,NASA,1.0,IMG,0.8571428571428571

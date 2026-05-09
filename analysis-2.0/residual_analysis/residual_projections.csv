@@ -1,0 +1,637 @@
+document_id,Title,Agency,File Group,Output Path,variant,cluster,pca_1,pca_2
+doc_0003,"State Department UAP Cable 1, Papua New Guinea, January 28, 1985",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_1__Papua_New_Guinea__January_28__1985.pdf,raw,2,-0.13233612,0.08840649
+doc_0004,"State Department UAP Cable 2, Kazakhstan, January 31, 1994",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_2__Kazakhstan__January_31__1994.pdf,raw,2,-0.13769117,0.09962558
+doc_0001,59_214434_SP 16 [7.18.1963],Department of State,PDF,ufo_release/Department of State/PDF/59_214434_SP_16__7_18_1963_.pdf,raw,3,-0.12361082,0.22695069
+doc_0002,59_64634_711.5612[7-2852,Department of State,PDF,ufo_release/Department of State/PDF/59_64634_711_5612_7-2852.pdf,raw,3,-0.118436776,0.23800421
+doc_0006,"State Department UAP Cable 4, Ashgabat, Turkmenistan, November 5, 2004",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_4__Ashgabat__Turkmenistan__November_5__2004.pdf,raw,2,-0.1722069,0.084593825
+doc_0007,"State Department UAP Cable 5, Mexico, September 16, 2003",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_5__Mexico__September_16__2003.pdf,raw,2,-0.10028857,0.06901905
+doc_0005,"State Department UAP Cable 3, Tbilisi, Georgia, October 30, 2001",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_3__Tbilisi__Georgia__October_30__2001.pdf,raw,2,-0.16794218,0.07412795
+doc_0009,18_100754_ General 1946-7_Vol_2,Department of War,PDF,ufo_release/Department of War/PDF/18_100754__General_1946-7_Vol_2.pdf,raw,3,-0.13808727,0.24288712
+doc_0008,USPER Statement about UAP Sighting,Department of State,PDF,ufo_release/Department of State/PDF/USPER_Statement_about_UAP_Sighting.pdf,raw,2,-0.03069879,0.008785451
+doc_0010,18_6369445_General_1948_Vol_1,Department of War,PDF,ufo_release/Department of War/PDF/18_6369445_General_1948_Vol_1.pdf,raw,3,-0.139386,0.23806253
+doc_0011,331_120752_Numeric_Files_1944–1945_37153_German_Armament_Equipment_Documents,Department of War,PDF,ufo_release/Department of War/PDF/331_120752_Numeric_Files_1944_1945_37153_German_Armament_Equipment_Documents.pdf,raw,3,-0.15630881,0.18159461
+doc_0012,341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No.2_2-5300-2-5399,Department of War,PDF,ufo_release/Department of War/PDF/341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No_2_2-5300-2-5399.pdf,raw,3,-0.13868862,0.18039052
+doc_0014,342_HS1-416511228_319.1 Flying Discs 1949,Department of War,PDF,ufo_release/Department of War/PDF/342_HS1-416511228_319_1_Flying_Discs_1949.pdf,raw,3,-0.15011154,0.2451105
+doc_0013,"341_110677_Numerical_File,_5-2500",Department of War,PDF,ufo_release/Department of War/PDF/341_110677_Numerical_File__5-2500.pdf,raw,2,-0.1498494,0.16126099
+doc_0015,38_143685_box7_Incident_Summaries_1-100,Department of War,PDF,ufo_release/Department of War/PDF/38_143685_box7_Incident_Summaries_1-100.pdf,raw,3,-0.14867866,0.24030697
+doc_0016,38_143685_box_Incident_Summaries_101-172,Department of War,PDF,ufo_release/Department of War/PDF/38_143685_box_Incident_Summaries_101-172.pdf,raw,3,-0.14596342,0.2418179
+doc_0017,38_143685_box_Incident_Summaries_173-233,Department of War,PDF,ufo_release/Department of War/PDF/38_143685_box_Incident_Summaries_173-233.pdf,raw,3,-0.15113893,0.24279444
+doc_0019,"DOW-UAP-D19, Mission Report, Syria, February 21, 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D19__Mission_Report__Syria__February_21__2023.pdf,raw,0,-0.18699183,-0.10720205
+doc_0018,"DOW-UAP-D12, Mission Report, Iraq, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D12__Mission_Report__Iraq__May_2022.pdf,raw,0,-0.19688444,-0.12378688
+doc_0021,"DOW-UAP-D25, Mission Report, Greece, January 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D25__Mission_Report__Greece__January_2024.pdf,raw,0,-0.17213377,-0.13371922
+doc_0022,"DOW-UAP-D27, Mission Report, United Arab Emirates, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D27__Mission_Report__United_Arab_Emirates__October_2023.pdf,raw,0,-0.18267985,-0.14757125
+doc_0024,"DOW-UAP-D3, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D3__Mission_Report__Arabian_Gulf__2020.pdf,raw,0,-0.16367446,-0.13686809
+doc_0023,"DOW-UAP-D28, Mission Report, Iraq, September 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D28__Mission_Report__Iraq__September_2024.pdf,raw,0,-0.16837382,-0.1401221
+doc_0020,"DOW-UAP-D20, Mission Report, Southern United States, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D20__Mission_Report__Southern_United_States__2020.pdf,raw,0,-0.16788065,-0.13559122
+doc_0026,"DOW-UAP-D44, Range Fouler Reporting Form, Gulf of Aden, October 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D44__Range_Fouler_Reporting_Form__Gulf_of_Aden__October_2020.pdf,raw,0,-0.11706702,-0.12194173
+doc_0025,"DOW-UAP-D42, Range Fouler Debrief, Japan, 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D42__Range_Fouler_Debrief__Japan__2023.pdf,raw,0,-0.069722466,-0.1192241
+doc_0027,"DOW-UAP-D48, Department of the Air Force Report, 1996",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D48__Department_of_the_Air_Force_Report__1996.pdf,raw,3,-0.13942622,0.061012346
+doc_0028,"DOW-UAP-D49, Launch Summary, Vandenberg AFB, 2000",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D49__Launch_Summary__Vandenberg_AFB__2000.pdf,raw,3,-0.114717446,0.062948845
+doc_0029,"DOW-UAP-D4, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D4__Mission_Report__Arabian_Gulf__2020.pdf,raw,0,-0.13071826,-0.19292705
+doc_0030,"DOW-UAP-D50, Email Correspondence, INDOPACOM, April 2025",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D50__Email_Correspondence__INDOPACOM__April_2025.pdf,raw,0,-0.11791271,-0.05283142
+doc_0032,"DOW-UAP-D52, Email Correspondance, NA, August 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D52__Email_Correspondance__NA__August_2024.pdf,raw,0,-0.084207915,-0.04457207
+doc_0031,"DOW-UAP-D51, Email Correspondence, Pacific Time Zone, March 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D51__Email_Correspondence__Pacific_Time_Zone__March_2023.pdf,raw,0,-0.12011076,-0.07341814
+doc_0033,"DOW-UAP-D54, Mission Report, Mediterranean Sea, NA",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D54__Mission_Report__Mediterranean_Sea__NA.pdf,raw,0,-0.13350634,-0.053326
+doc_0034,"DOW-UAP-D55, Mission Report, Syria, November 2016",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D55__Mission_Report__Syria__November_2016.pdf,raw,0,-0.061148264,-0.11632406
+doc_0035,"DOW-UAP-D56, Range Fouler Debrief, Arabian Sea, August 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D56__Range_Fouler_Debrief__Arabian_Sea__August_2020.pdf,raw,0,-0.103672236,-0.13686338
+doc_0036,"DOW-UAP-D57, Range Fouler Reporting Form, Gulf of Aden, September 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D57__Range_Fouler_Reporting_Form__Gulf_of_Aden__September_2020.pdf,raw,0,-0.1239615,-0.113180794
+doc_0037,"DOW-UAP-D58, Range Fouler Debrief, NA, October 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D58__Range_Fouler_Debrief__NA__October_2020.pdf,raw,0,-0.09492043,-0.054996155
+doc_0038,"DOW-UAP-D5, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D5__Mission_Report__Arabian_Gulf__2020.pdf,raw,0,-0.14566727,-0.18451251
+doc_0040,"DOW-UAP-D61, Mission Report, Persian Gulf, August 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D61__Mission_Report__Persian_Gulf__August_2020.pdf,raw,0,-0.16115676,-0.13919339
+doc_0041,"DOW-UAP-D62, Mission Report, Strait of Hormuz, September 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D62__Mission_Report__Strait_of_Hormuz__September_2020.pdf,raw,0,-0.18839872,-0.1524232
+doc_0039,"DOW-UAP-D60, Mission Report, Persian Gulf, August 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D60__Mission_Report__Persian_Gulf__August_2020.pdf,raw,0,-0.2165574,-0.14845605
+doc_0043,"DOW-UAP-D64, Mission Report, Iran, November 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D64__Mission_Report__Iran__November_2020.pdf,raw,0,-0.13573131,-0.13981856
+doc_0042,"DOW-UAP-D63, Mission Report, Strait of Hormuz, October 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D63__Mission_Report__Strait_of_Hormuz__October_2020.pdf,raw,0,-0.14070979,-0.15296713
+doc_0045,"DOW-UAP-D6, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D6__Mission_Report__Arabian_Gulf__2020.pdf,raw,0,-0.10116636,-0.15473047
+doc_0044,"DOW-UAP-D65, Mission Report, Persian Gulf, July 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D65__Mission_Report__Persian_Gulf__July_2020.pdf,raw,0,-0.18945402,-0.1315742
+doc_0046,"DOW-UAP-D74, Mission Report, Syria, November 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D74__Mission_Report__Syria__November_2023.pdf,raw,0,-0.20648393,-0.11136379
+doc_0047,"DOW-UAP-D75, Mission Report, Gulf of Aden, July 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D75__Mission_Report__Gulf_of_Aden__July_2024.pdf,raw,0,-0.1960487,-0.1386728
+doc_0049,"DOW-UAP-D8, Mission Report, Djibouti, 2025",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D8__Mission_Report__Djibouti__2025.pdf,raw,0,-0.08604394,-0.123960525
+doc_0048,"DOW-UAP-D7, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D7__Mission_Report__Arabian_Gulf__2020.pdf,raw,0,-0.13350673,-0.20510453
+doc_0050,"DOW-UAP-PR19, Unresolved UAP Report, Middle East, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR19__Unresolved_UAP_Report__Middle_East__May_2022.pdf,raw,0,-0.1977392,-0.12522681
+doc_0051,"DOW-UAP-PR20, Unresolved UAP Report, Kuwait, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR20__Unresolved_UAP_Report__Kuwait__May_2022.pdf,raw,0,-0.052399963,-0.118264064
+doc_0052,"DOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR21__Unresolved_UAP_Report__Iraq__May_2022.pdf,raw,0,-0.21826895,-0.0951249
+doc_0053,"DOW-UAP-PR22, Unresolved UAP Report, Syria, July 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR22__Unresolved_UAP_Report__Syria__July_2022.pdf,raw,0,-0.15306373,-0.101146035
+doc_0055,"DOW-UAP-PR26, Unresolved UAP Report, United Arab Emirates, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR26__Unresolved_UAP_Report__United_Arab_Emirates__October_2023.pdf,raw,0,-0.21539728,-0.1229299
+doc_0056,"DOW-UAP-PR27, Unresolved UAP Report, United Arab Emirates, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR27__Unresolved_UAP_Report__United_Arab_Emirates__October_2023.pdf,raw,0,-0.21994308,-0.11897108
+doc_0054,"DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR23__Unresolved_UAP_Report__Iraq__December_2022.pdf,raw,0,-0.19358574,-0.09336067
+doc_0057,"DOW-UAP-PR31, Unresolved UAP Report, Syria, October 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR31__Unresolved_UAP_Report__Syria__October_2024.pdf,raw,0,-0.17959192,-0.1145685
+doc_0058,"DOW-UAP-PR32, Unresolved UAP Report, Syria, October 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR32__Unresolved_UAP_Report__Syria__October_2024.pdf,raw,0,-0.17572492,-0.116052605
+doc_0059,"DOW-UAP-PR33, Unresolved UAP Report, Syria, October 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR33__Unresolved_UAP_Report__Syria__October_2024.pdf,raw,0,-0.17342956,-0.11489439
+doc_0060,"DOW-UAP-PR34, Unresolved UAP Report, Greece, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR34__Unresolved_UAP_Report__Greece__October_2023.pdf,raw,0,-0.17418647,-0.1065813
+doc_0061,"DOW-UAP-PR35, Unresolved UAP Report, Greece, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR35__Unresolved_UAP_Report__Greece__October_2023.pdf,raw,0,-0.17060612,-0.107833885
+doc_0063,Western US Event,Department of War,PDF,ufo_release/Department of War/PDF/Western_US_Event.pdf,raw,0,-0.018450722,-0.09771625
+doc_0062,"DOW-UAP-PR36, Unresolved UAP Report, Middle East, May 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR36__Unresolved_UAP_Report__Middle_East__May_2020.pdf,raw,0,-0.073257245,-0.123797216
+doc_0064,"DOW-UAP-D10, Mission Report, Middle East, May 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D10__Mission_Report__Middle_East__May_2022.mp4,raw,0,0.0017950472,-0.22251748
+doc_0067,"DOW-UAP-D18, Mission Report, Iraq, December 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D18__Mission_Report__Iraq__December_2022.mp4,raw,0,-0.011262403,-0.21954744
+doc_0065,"DOW-UAP-D14, Mission Report, Iraq, May 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D14__Mission_Report__Iraq__May_2022.mp4,raw,0,-0.0043984815,-0.23016082
+doc_0069,"DOW-UAP-D32, Mission Report, Syria, October 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D32__Mission_Report__Syria__October_2024.mp4,raw,0,0.008462976,-0.20652813
+doc_0070,"DOW-UAP-D33, Mission Report, Greece, October 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D33__Mission_Report__Greece__October_2023.mp4,raw,0,-0.023520065,-0.22675861
+doc_0066,"DOW-UAP-D16, Mission Report, Syria, July 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D16__Mission_Report__Syria__July_2022.mp4,raw,0,-0.041920852,-0.24802537
+doc_0072,"DOW-UAP-D38, Range Fouler Debrief, Middle East, May 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D38__Range_Fouler_Debrief__Middle_East__May_2020.mp4,raw,0,-0.041243833,-0.18496451
+doc_0071,"DOW-UAP-D35, Mission Report, Greece, October 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D35__Mission_Report__Greece__October_2023.mp4,raw,0,-0.11216439,-0.26914662
+doc_0075,"DOW-UAP-PR37, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR37__Unresolved_UAP_Report__Middle_East__2020.mp4,raw,0,-0.050431,-0.24201947
+doc_0068,"DOW-UAP-D23, Mission Report, United Arab Emirates, October 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D23__Mission_Report__United_Arab_Emirates__October_2023.mp4,raw,0,-0.12236103,-0.30277723
+doc_0074,"DOW-UAP-PR29, Unresolved UAP Report, United Arab Emirates, June 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR29__Unresolved_UAP_Report__United_Arab_Emirates__June_2024.mp4,raw,0,-0.12566563,-0.2892665
+doc_0077,"DOW-UAP-PR39, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR39__Unresolved_UAP_Report__Middle_East__2020.mp4,raw,0,-0.036564764,-0.24692032
+doc_0073,"DOW-UAP-PR28, Unresolved UAP Report, Greece, January 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR28__Unresolved_UAP_Report__Greece__January_2024.mp4,raw,0,-0.117424406,-0.2583661
+doc_0080,"DOW-UAP-PR42, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR42__Unresolved_UAP_Report__Middle_East__2020.mp4,raw,0,-0.050073087,-0.21340765
+doc_0076,"DOW-UAP-PR38, Unresolved UAP Report, Middle East, 2013",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR38__Unresolved_UAP_Report__Middle_East__2013.mp4,raw,0,-0.1510699,-0.2481387
+doc_0081,"DOW-UAP-PR43, Unresolved UAP Report, Africa, 2025",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR43__Unresolved_UAP_Report__Africa__2025.mp4,raw,0,-0.019484518,-0.21524405
+doc_0082,"DOW-UAP-PR44, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR44__Unresolved_UAP_Report__Middle_East__2020.mp4,raw,0,-0.061937775,-0.20430782
+doc_0078,"DOW-UAP-PR40, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR40__Unresolved_UAP_Report__Middle_East__2020.mp4,raw,0,-0.1567394,-0.28284875
+doc_0084,"DOW-UAP-PR46, Unresolved UAP Report, INDOPACOM, 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR46__Unresolved_UAP_Report__INDOPACOM__2024.mp4,raw,0,-0.012752285,-0.22311594
+doc_0083,"DOW-UAP-PR45, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR45__Unresolved_UAP_Report__Middle_East__2020.mp4,raw,0,-0.08206157,-0.2696809
+doc_0085,"DOW-UAP-PR47, Unresolved UAP Report, INDOPACOM, 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR47__Unresolved_UAP_Report__INDOPACOM__2023.mp4,raw,0,-0.101147816,-0.22809872
+doc_0088,FBI Photo A1,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A1.png,raw,1,0.39633667,-0.014861269
+doc_0079,"DOW-UAP-PR41, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR41__Unresolved_UAP_Report__Middle_East__2020.mp4,raw,0,-0.1357944,-0.28723338
+doc_0089,FBI Photo A2,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A2.png,raw,1,0.38500276,-0.050576292
+doc_0090,FBI Photo A3,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A3.png,raw,1,0.37963417,-0.022347445
+doc_0091,FBI Photo A4,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A4.png,raw,1,0.395532,-0.051235583
+doc_0093,FBI Photo A6,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A6.png,raw,1,0.4049632,-0.0042887153
+doc_0092,FBI Photo A5,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A5.png,raw,1,0.3960978,-0.020459885
+doc_0094,FBI Photo A7,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A7.png,raw,1,0.38047725,-0.015542677
+doc_0095,FBI Photo A8,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A8.png,raw,1,0.40018564,-0.02465556
+doc_0096,65_HS1-101634279_100-DE-18221_Serial_844,FBI,PDF,ufo_release/FBI/PDF/65_HS1-101634279_100-DE-18221_Serial_844.pdf,raw,3,-0.023341082,0.26732025
+doc_0097,65_HS1-101634279_100-DE-26505,FBI,PDF,ufo_release/FBI/PDF/65_HS1-101634279_100-DE-26505.pdf,raw,3,-0.0958255,0.27201906
+doc_0087,"DOW-UAP-PR49, Unresolved UAP Report, Department of the Army, 2026",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR49__Unresolved_UAP_Report__Department_of_the_Army__2026.mp4,raw,0,-0.07403561,-0.2371171
+doc_0086,"DOW-UAP-PR48, Unresolved UAP Report, INDOPACOM, 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR48__Unresolved_UAP_Report__INDOPACOM__2024.mp4,raw,0,-0.15253259,-0.22689603
+doc_0098,65_HS1-834228961_62-HQ-83894_SUB_A,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_SUB_A.pdf,raw,3,-0.10648169,0.34000924
+doc_0099,65_HS1-834228961_62-HQ-83894_Section_1,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_1.pdf,raw,3,-0.08342406,0.34194216
+doc_0100,65_HS1-834228961_62-HQ-83894_Section_10,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_10.pdf,raw,3,-0.088771686,0.33251122
+doc_0101,65_HS1-834228961_62-HQ-83894_Section_2,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_2.pdf,raw,3,-0.0847796,0.33358452
+doc_0102,65_HS1-834228961_62-HQ-83894_Section_3,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_3.pdf,raw,3,-0.08581391,0.336207
+doc_0103,65_HS1-834228961_62-HQ-83894_Section_4,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_4.pdf,raw,3,-0.08768713,0.3433524
+doc_0104,65_HS1-834228961_62-HQ-83894_Section_5,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_5.pdf,raw,3,-0.08386392,0.3349883
+doc_0105,65_HS1-834228961_62-HQ-83894_Section_6,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_6.pdf,raw,3,-0.0882572,0.33928984
+doc_0106,65_HS1-834228961_62-HQ-83894_Section_7,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_7.pdf,raw,3,-0.08996509,0.34827206
+doc_0107,65_HS1-834228961_62-HQ-83894_Section_8,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_8.pdf,raw,3,-0.09518511,0.34190476
+doc_0108,65_HS1-834228961_62-HQ-83894_Section_9,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_9.pdf,raw,3,-0.090363264,0.33862594
+doc_0109,65_HS1-834228961_62-HQ-83894_Serial_130,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_130.pdf,raw,3,-0.092049435,0.32840294
+doc_0110,65_HS1-834228961_62-HQ-83894_Serial_153,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_153.pdf,raw,3,0.0031424959,0.30449805
+doc_0111,65_HS1-834228961_62-HQ-83894_Serial_164,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_164.pdf,raw,3,-0.09866885,0.31721178
+doc_0112,65_HS1-834228961_62-HQ-83894_Serial_220,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_220.pdf,raw,3,-0.055457853,0.31327146
+doc_0114,65_HS1-834228961_62-HQ-83894_Serial_438,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_438.pdf,raw,3,-0.06526061,0.32107213
+doc_0113,65_HS1-834228961_62-HQ-83894_Serial_403,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_403.pdf,raw,3,-0.03955666,0.315179
+doc_0115,65_HS1-834228961_62-HQ-83894_Serial_449,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_449.pdf,raw,3,-0.078761436,0.3595036
+doc_0118,FBI Photo B11,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B11.pdf,raw,1,0.43033648,-0.0030045782
+doc_0117,FBI Photo B10,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B10.pdf,raw,1,0.41958308,-0.005456121
+doc_0116,FBI Photo B1,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B1.pdf,raw,1,0.412025,-0.0104085645
+doc_0119,FBI Photo B12,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B12.pdf,raw,1,0.4093681,-0.014410817
+doc_0120,FBI Photo B13,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B13.pdf,raw,1,0.38133094,-0.0087795025
+doc_0121,FBI Photo B14,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B14.pdf,raw,1,0.4117813,-8.673879e-05
+doc_0122,FBI Photo B15,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B15.pdf,raw,1,0.39952555,0.004667545
+doc_0123,FBI Photo B16,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B16.pdf,raw,1,0.40988386,-0.0044117444
+doc_0124,FBI Photo B17,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B17.pdf,raw,1,0.40399623,0.0020708486
+doc_0126,FBI Photo B19,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B19.pdf,raw,1,0.42574826,0.014387191
+doc_0125,FBI Photo B18,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B18.pdf,raw,1,0.3755441,-0.008138386
+doc_0128,FBI Photo B20,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B20.pdf,raw,1,0.43668634,0.0077526583
+doc_0127,FBI Photo B2,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B2.pdf,raw,1,0.42108074,0.0022942666
+doc_0130,FBI Photo B22,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B22.pdf,raw,1,0.37638846,-0.0064723305
+doc_0129,FBI Photo B21,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B21.pdf,raw,1,0.44255066,0.005254004
+doc_0131,FBI Photo B23,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B23.pdf,raw,1,0.3967405,0.011237438
+doc_0132,FBI Photo B24,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B24.pdf,raw,1,0.41089985,-0.008300219
+doc_0134,FBI Photo B4,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B4.pdf,raw,1,0.42419094,-0.0056413375
+doc_0133,FBI Photo B3,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B3.pdf,raw,1,0.38078552,0.002293088
+doc_0135,FBI Photo B5,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B5.pdf,raw,1,0.4106741,-0.005085837
+doc_0136,FBI Photo B6,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B6.pdf,raw,1,0.39000475,-0.0040597063
+doc_0138,FBI Photo B8,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B8.pdf,raw,1,0.44101447,-0.007730441
+doc_0137,FBI Photo B7,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B7.pdf,raw,1,0.40388197,-0.0009753041
+doc_0139,FBI Photo B9,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B9.pdf,raw,1,0.43437213,-0.003461372
+doc_0140,FBI September 2023 Sighting - Composite Sketch,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Composite_Sketch.pdf,raw,1,0.1573071,0.06962685
+doc_0141,FBI September 2023 Sighting - Serial 3,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Serial_3.pdf,raw,3,-0.07498458,0.09750316
+doc_0142,FBI September 2023 Sighting - Serial 4,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Serial_4.pdf,raw,3,-0.08654364,0.078586034
+doc_0143,FBI September 2023 Sighting - Serial 5,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Serial_5.pdf,raw,3,-0.07970902,0.0979823
+doc_0144,"NASA-UAP-VM1, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM1__Apollo_12__1969.jpg,raw,4,0.096858576,-0.016879208
+doc_0145,"NASA-UAP-VM2, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM2__Apollo_12__1969.jpg,raw,4,0.06626361,0.02360688
+doc_0146,"NASA-UAP-VM3, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM3__Apollo_12__1969.jpg,raw,4,0.07236709,-0.0049544997
+doc_0147,"NASA-UAP-VM4, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM4__Apollo_12__1969.jpg,raw,4,0.0906942,-0.024478603
+doc_0150,255_413270_UFO's_and_Defense_What_Should_we_Prepare_For,NASA,PDF,ufo_release/NASA/PDF/255_413270_UFO_s_and_Defense_What_Should_we_Prepare_For.pdf,raw,3,-0.1252482,0.19438584
+doc_0149,"NASA-UAP-VM6, Apollo 17, 1972",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM6__Apollo_17__1972.jpg,raw,4,0.077844866,-0.007933388
+doc_0148,"NASA-UAP-VM5, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM5__Apollo_12__1969.jpg,raw,4,0.07247076,0.008898984
+doc_0151,255_t_763_r1b_transcripts,NASA,PDF,ufo_release/NASA/PDF/255_t_763_r1b_transcripts.pdf,raw,3,-0.076798685,0.1875188
+doc_0152,"NASA-UAP-D1, Apollo 12 Transcript, 1969",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D1__Apollo_12_Transcript__1969.pdf,raw,3,-0.135295,0.15932786
+doc_0153,"NASA-UAP-D2, Apollo 17 Transcript, 1972",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D2__Apollo_17_Transcript__1972.pdf,raw,3,-0.15433209,0.1592331
+doc_0156,"NASA-UAP-D5, Apollo 17 Crew Debriefing for Science, 1973",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D5__Apollo_17_Crew_Debriefing_for_Science__1973.pdf,raw,3,-0.1346694,0.19794191
+doc_0154,"NASA-UAP-D3, Gemini 7 Transcript, 1965",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D3__Gemini_7_Transcript__1965.pdf,raw,3,-0.10805986,0.17631346
+doc_0155,"NASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D4__Apollo_11_Technical_Crew_Debriefing__1969.pdf,raw,3,-0.14595406,0.17927063
+doc_0157,"NASA-UAP-D6, Apollo 17 Technical Crew Debriefing, 1973",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D6__Apollo_17_Technical_Crew_Debriefing__1973.pdf,raw,3,-0.11425628,0.1287947
+doc_0159,255-t-763-r1b-excerpt,NASA,VID,ufo_release/NASA/VID/255-t-763-r1b-excerpt.mp4,raw,4,0.034803938,0.0025207524
+doc_0158,"NASA-UAP-D7, Skylab Techincal Crew Debriefing 1973",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D7__Skylab_Techincal_Crew_Debriefing_1973.pdf,raw,3,-0.1469796,0.15310006
+doc_0003,"State Department UAP Cable 1, Papua New Guinea, January 28, 1985",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_1__Papua_New_Guinea__January_28__1985.pdf,agency_controlled,0,0.025141962,0.010376465
+doc_0004,"State Department UAP Cable 2, Kazakhstan, January 31, 1994",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_2__Kazakhstan__January_31__1994.pdf,agency_controlled,0,0.049475837,-0.15043737
+doc_0001,59_214434_SP 16 [7.18.1963],Department of State,PDF,ufo_release/Department of State/PDF/59_214434_SP_16__7_18_1963_.pdf,agency_controlled,2,0.21948569,0.20076343
+doc_0002,59_64634_711.5612[7-2852,Department of State,PDF,ufo_release/Department of State/PDF/59_64634_711_5612_7-2852.pdf,agency_controlled,2,0.21851313,0.20853591
+doc_0006,"State Department UAP Cable 4, Ashgabat, Turkmenistan, November 5, 2004",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_4__Ashgabat__Turkmenistan__November_5__2004.pdf,agency_controlled,0,0.10819045,0.003070322
+doc_0007,"State Department UAP Cable 5, Mexico, September 16, 2003",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_5__Mexico__September_16__2003.pdf,agency_controlled,0,-0.07537982,0.009880334
+doc_0005,"State Department UAP Cable 3, Tbilisi, Georgia, October 30, 2001",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_3__Tbilisi__Georgia__October_30__2001.pdf,agency_controlled,0,0.075590245,-0.058617335
+doc_0009,18_100754_ General 1946-7_Vol_2,Department of War,PDF,ufo_release/Department of War/PDF/18_100754__General_1946-7_Vol_2.pdf,agency_controlled,2,0.51017255,0.0002560382
+doc_0008,USPER Statement about UAP Sighting,Department of State,PDF,ufo_release/Department of State/PDF/USPER_Statement_about_UAP_Sighting.pdf,agency_controlled,1,-0.28238386,-0.10215396
+doc_0010,18_6369445_General_1948_Vol_1,Department of War,PDF,ufo_release/Department of War/PDF/18_6369445_General_1948_Vol_1.pdf,agency_controlled,2,0.5110955,0.006986229
+doc_0011,331_120752_Numeric_Files_1944–1945_37153_German_Armament_Equipment_Documents,Department of War,PDF,ufo_release/Department of War/PDF/331_120752_Numeric_Files_1944_1945_37153_German_Armament_Equipment_Documents.pdf,agency_controlled,2,0.44608128,0.030321905
+doc_0012,341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No.2_2-5300-2-5399,Department of War,PDF,ufo_release/Department of War/PDF/341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No_2_2-5300-2-5399.pdf,agency_controlled,2,0.40008447,-0.026656086
+doc_0014,342_HS1-416511228_319.1 Flying Discs 1949,Department of War,PDF,ufo_release/Department of War/PDF/342_HS1-416511228_319_1_Flying_Discs_1949.pdf,agency_controlled,2,0.5769124,0.045520626
+doc_0013,"341_110677_Numerical_File,_5-2500",Department of War,PDF,ufo_release/Department of War/PDF/341_110677_Numerical_File__5-2500.pdf,agency_controlled,2,0.38388535,-0.003486273
+doc_0015,38_143685_box7_Incident_Summaries_1-100,Department of War,PDF,ufo_release/Department of War/PDF/38_143685_box7_Incident_Summaries_1-100.pdf,agency_controlled,2,0.5441141,0.032563753
+doc_0016,38_143685_box_Incident_Summaries_101-172,Department of War,PDF,ufo_release/Department of War/PDF/38_143685_box_Incident_Summaries_101-172.pdf,agency_controlled,2,0.54788315,0.03875252
+doc_0017,38_143685_box_Incident_Summaries_173-233,Department of War,PDF,ufo_release/Department of War/PDF/38_143685_box_Incident_Summaries_173-233.pdf,agency_controlled,2,0.5371524,0.010280309
+doc_0019,"DOW-UAP-D19, Mission Report, Syria, February 21, 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D19__Mission_Report__Syria__February_21__2023.pdf,agency_controlled,0,0.21448502,-0.49815497
+doc_0018,"DOW-UAP-D12, Mission Report, Iraq, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D12__Mission_Report__Iraq__May_2022.pdf,agency_controlled,0,0.22340736,-0.41634825
+doc_0021,"DOW-UAP-D25, Mission Report, Greece, January 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D25__Mission_Report__Greece__January_2024.pdf,agency_controlled,0,0.13631977,-0.3801781
+doc_0022,"DOW-UAP-D27, Mission Report, United Arab Emirates, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D27__Mission_Report__United_Arab_Emirates__October_2023.pdf,agency_controlled,0,0.14803427,-0.41809863
+doc_0024,"DOW-UAP-D3, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D3__Mission_Report__Arabian_Gulf__2020.pdf,agency_controlled,4,0.09878643,-0.21554919
+doc_0023,"DOW-UAP-D28, Mission Report, Iraq, September 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D28__Mission_Report__Iraq__September_2024.pdf,agency_controlled,0,0.12947415,-0.38468564
+doc_0020,"DOW-UAP-D20, Mission Report, Southern United States, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D20__Mission_Report__Southern_United_States__2020.pdf,agency_controlled,0,0.12653637,-0.3846932
+doc_0026,"DOW-UAP-D44, Range Fouler Reporting Form, Gulf of Aden, October 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D44__Range_Fouler_Reporting_Form__Gulf_of_Aden__October_2020.pdf,agency_controlled,0,0.0113928,-0.33326086
+doc_0025,"DOW-UAP-D42, Range Fouler Debrief, Japan, 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D42__Range_Fouler_Debrief__Japan__2023.pdf,agency_controlled,0,-0.08090524,-0.1924402
+doc_0027,"DOW-UAP-D48, Department of the Air Force Report, 1996",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D48__Department_of_the_Air_Force_Report__1996.pdf,agency_controlled,2,0.28795874,-0.042370863
+doc_0028,"DOW-UAP-D49, Launch Summary, Vandenberg AFB, 2000",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D49__Launch_Summary__Vandenberg_AFB__2000.pdf,agency_controlled,2,0.21682115,-0.021367129
+doc_0029,"DOW-UAP-D4, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D4__Mission_Report__Arabian_Gulf__2020.pdf,agency_controlled,1,-0.074053794,0.10649243
+doc_0030,"DOW-UAP-D50, Email Correspondence, INDOPACOM, April 2025",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D50__Email_Correspondence__INDOPACOM__April_2025.pdf,agency_controlled,2,0.10685895,-0.11853615
+doc_0032,"DOW-UAP-D52, Email Correspondance, NA, August 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D52__Email_Correspondance__NA__August_2024.pdf,agency_controlled,2,0.05662347,-0.14267427
+doc_0031,"DOW-UAP-D51, Email Correspondence, Pacific Time Zone, March 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D51__Email_Correspondence__Pacific_Time_Zone__March_2023.pdf,agency_controlled,2,0.09397538,0.037405662
+doc_0033,"DOW-UAP-D54, Mission Report, Mediterranean Sea, NA",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D54__Mission_Report__Mediterranean_Sea__NA.pdf,agency_controlled,2,0.16945608,-0.011187829
+doc_0034,"DOW-UAP-D55, Mission Report, Syria, November 2016",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D55__Mission_Report__Syria__November_2016.pdf,agency_controlled,0,-0.100575894,-0.2634816
+doc_0035,"DOW-UAP-D56, Range Fouler Debrief, Arabian Sea, August 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D56__Range_Fouler_Debrief__Arabian_Sea__August_2020.pdf,agency_controlled,0,-0.04579068,-0.2314143
+doc_0036,"DOW-UAP-D57, Range Fouler Reporting Form, Gulf of Aden, September 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D57__Range_Fouler_Reporting_Form__Gulf_of_Aden__September_2020.pdf,agency_controlled,0,0.033882983,-0.2762269
+doc_0037,"DOW-UAP-D58, Range Fouler Debrief, NA, October 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D58__Range_Fouler_Debrief__NA__October_2020.pdf,agency_controlled,0,0.066019595,-0.2988165
+doc_0038,"DOW-UAP-D5, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D5__Mission_Report__Arabian_Gulf__2020.pdf,agency_controlled,1,-0.027047034,0.11454642
+doc_0040,"DOW-UAP-D61, Mission Report, Persian Gulf, August 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D61__Mission_Report__Persian_Gulf__August_2020.pdf,agency_controlled,4,0.09618904,-0.38441303
+doc_0041,"DOW-UAP-D62, Mission Report, Strait of Hormuz, September 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D62__Mission_Report__Strait_of_Hormuz__September_2020.pdf,agency_controlled,4,0.14296731,-0.3708735
+doc_0039,"DOW-UAP-D60, Mission Report, Persian Gulf, August 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D60__Mission_Report__Persian_Gulf__August_2020.pdf,agency_controlled,4,0.22899471,-0.37957612
+doc_0043,"DOW-UAP-D64, Mission Report, Iran, November 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D64__Mission_Report__Iran__November_2020.pdf,agency_controlled,4,0.017360846,-0.33015597
+doc_0042,"DOW-UAP-D63, Mission Report, Strait of Hormuz, October 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D63__Mission_Report__Strait_of_Hormuz__October_2020.pdf,agency_controlled,4,0.004888736,-0.19473672
+doc_0045,"DOW-UAP-D6, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D6__Mission_Report__Arabian_Gulf__2020.pdf,agency_controlled,1,-0.08281299,0.039481655
+doc_0044,"DOW-UAP-D65, Mission Report, Persian Gulf, July 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D65__Mission_Report__Persian_Gulf__July_2020.pdf,agency_controlled,4,0.19589984,-0.36356482
+doc_0046,"DOW-UAP-D74, Mission Report, Syria, November 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D74__Mission_Report__Syria__November_2023.pdf,agency_controlled,0,0.26279563,-0.48692673
+doc_0047,"DOW-UAP-D75, Mission Report, Gulf of Aden, July 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D75__Mission_Report__Gulf_of_Aden__July_2024.pdf,agency_controlled,0,0.19020766,-0.40163392
+doc_0049,"DOW-UAP-D8, Mission Report, Djibouti, 2025",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D8__Mission_Report__Djibouti__2025.pdf,agency_controlled,1,-0.060223296,-0.0232537
+doc_0048,"DOW-UAP-D7, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D7__Mission_Report__Arabian_Gulf__2020.pdf,agency_controlled,1,-0.088877626,0.125674
+doc_0050,"DOW-UAP-PR19, Unresolved UAP Report, Middle East, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR19__Unresolved_UAP_Report__Middle_East__May_2022.pdf,agency_controlled,0,0.22271958,-0.36190313
+doc_0051,"DOW-UAP-PR20, Unresolved UAP Report, Kuwait, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR20__Unresolved_UAP_Report__Kuwait__May_2022.pdf,agency_controlled,0,-0.12747808,-0.26700956
+doc_0052,"DOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR21__Unresolved_UAP_Report__Iraq__May_2022.pdf,agency_controlled,0,0.3215147,-0.47526667
+doc_0053,"DOW-UAP-PR22, Unresolved UAP Report, Syria, July 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR22__Unresolved_UAP_Report__Syria__July_2022.pdf,agency_controlled,0,0.15541828,-0.5136526
+doc_0055,"DOW-UAP-PR26, Unresolved UAP Report, United Arab Emirates, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR26__Unresolved_UAP_Report__United_Arab_Emirates__October_2023.pdf,agency_controlled,0,0.2736607,-0.43299785
+doc_0056,"DOW-UAP-PR27, Unresolved UAP Report, United Arab Emirates, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR27__Unresolved_UAP_Report__United_Arab_Emirates__October_2023.pdf,agency_controlled,0,0.29305264,-0.4140953
+doc_0054,"DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR23__Unresolved_UAP_Report__Iraq__December_2022.pdf,agency_controlled,0,0.26826975,-0.44552168
+doc_0057,"DOW-UAP-PR31, Unresolved UAP Report, Syria, October 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR31__Unresolved_UAP_Report__Syria__October_2024.pdf,agency_controlled,0,0.20154557,-0.51828104
+doc_0058,"DOW-UAP-PR32, Unresolved UAP Report, Syria, October 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR32__Unresolved_UAP_Report__Syria__October_2024.pdf,agency_controlled,0,0.19156133,-0.516136
+doc_0059,"DOW-UAP-PR33, Unresolved UAP Report, Syria, October 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR33__Unresolved_UAP_Report__Syria__October_2024.pdf,agency_controlled,0,0.18936618,-0.5045732
+doc_0060,"DOW-UAP-PR34, Unresolved UAP Report, Greece, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR34__Unresolved_UAP_Report__Greece__October_2023.pdf,agency_controlled,0,0.19857839,-0.32405353
+doc_0061,"DOW-UAP-PR35, Unresolved UAP Report, Greece, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR35__Unresolved_UAP_Report__Greece__October_2023.pdf,agency_controlled,0,0.18780515,-0.3194049
+doc_0063,Western US Event,Department of War,PDF,ufo_release/Department of War/PDF/Western_US_Event.pdf,agency_controlled,1,-0.1410015,-0.124129795
+doc_0062,"DOW-UAP-PR36, Unresolved UAP Report, Middle East, May 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR36__Unresolved_UAP_Report__Middle_East__May_2020.pdf,agency_controlled,0,-0.083630435,-0.32637158
+doc_0064,"DOW-UAP-D10, Mission Report, Middle East, May 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D10__Mission_Report__Middle_East__May_2022.mp4,agency_controlled,1,-0.42310086,0.31272906
+doc_0067,"DOW-UAP-D18, Mission Report, Iraq, December 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D18__Mission_Report__Iraq__December_2022.mp4,agency_controlled,1,-0.37070918,0.33170277
+doc_0065,"DOW-UAP-D14, Mission Report, Iraq, May 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D14__Mission_Report__Iraq__May_2022.mp4,agency_controlled,1,-0.43042356,0.34095052
+doc_0069,"DOW-UAP-D32, Mission Report, Syria, October 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D32__Mission_Report__Syria__October_2024.mp4,agency_controlled,1,-0.39731055,0.20629688
+doc_0070,"DOW-UAP-D33, Mission Report, Greece, October 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D33__Mission_Report__Greece__October_2023.mp4,agency_controlled,1,-0.35967478,0.41730005
+doc_0066,"DOW-UAP-D16, Mission Report, Syria, July 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D16__Mission_Report__Syria__July_2022.mp4,agency_controlled,1,-0.36072728,0.39583126
+doc_0072,"DOW-UAP-D38, Range Fouler Debrief, Middle East, May 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D38__Range_Fouler_Debrief__Middle_East__May_2020.mp4,agency_controlled,1,-0.24929439,0.28166756
+doc_0071,"DOW-UAP-D35, Mission Report, Greece, October 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D35__Mission_Report__Greece__October_2023.mp4,agency_controlled,1,-0.20617005,0.6009043
+doc_0075,"DOW-UAP-PR37, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR37__Unresolved_UAP_Report__Middle_East__2020.mp4,agency_controlled,1,-0.3948592,0.43191096
+doc_0068,"DOW-UAP-D23, Mission Report, United Arab Emirates, October 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D23__Mission_Report__United_Arab_Emirates__October_2023.mp4,agency_controlled,1,-0.23694485,0.6335631
+doc_0074,"DOW-UAP-PR29, Unresolved UAP Report, United Arab Emirates, June 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR29__Unresolved_UAP_Report__United_Arab_Emirates__June_2024.mp4,agency_controlled,1,-0.23371148,0.65981865
+doc_0077,"DOW-UAP-PR39, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR39__Unresolved_UAP_Report__Middle_East__2020.mp4,agency_controlled,1,-0.44901365,0.4493442
+doc_0073,"DOW-UAP-PR28, Unresolved UAP Report, Greece, January 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR28__Unresolved_UAP_Report__Greece__January_2024.mp4,agency_controlled,1,-0.1770855,0.6240173
+doc_0080,"DOW-UAP-PR42, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR42__Unresolved_UAP_Report__Middle_East__2020.mp4,agency_controlled,1,-0.31751898,0.43892148
+doc_0076,"DOW-UAP-PR38, Unresolved UAP Report, Middle East, 2013",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR38__Unresolved_UAP_Report__Middle_East__2013.mp4,agency_controlled,1,-0.09704927,0.6532795
+doc_0081,"DOW-UAP-PR43, Unresolved UAP Report, Africa, 2025",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR43__Unresolved_UAP_Report__Africa__2025.mp4,agency_controlled,1,-0.3834325,0.47902024
+doc_0082,"DOW-UAP-PR44, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR44__Unresolved_UAP_Report__Middle_East__2020.mp4,agency_controlled,1,-0.2628203,0.38925475
+doc_0078,"DOW-UAP-PR40, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR40__Unresolved_UAP_Report__Middle_East__2020.mp4,agency_controlled,1,-0.13501446,0.66511476
+doc_0084,"DOW-UAP-PR46, Unresolved UAP Report, INDOPACOM, 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR46__Unresolved_UAP_Report__INDOPACOM__2024.mp4,agency_controlled,1,-0.4111097,0.5264301
+doc_0083,"DOW-UAP-PR45, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR45__Unresolved_UAP_Report__Middle_East__2020.mp4,agency_controlled,1,-0.2603338,0.63971746
+doc_0085,"DOW-UAP-PR47, Unresolved UAP Report, INDOPACOM, 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR47__Unresolved_UAP_Report__INDOPACOM__2023.mp4,agency_controlled,1,-0.15116571,0.6048901
+doc_0088,FBI Photo A1,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A1.png,agency_controlled,1,-0.5800025,0.005941553
+doc_0079,"DOW-UAP-PR41, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR41__Unresolved_UAP_Report__Middle_East__2020.mp4,agency_controlled,1,-0.18700884,0.7052942
+doc_0089,FBI Photo A2,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A2.png,agency_controlled,1,-0.5599341,0.041585412
+doc_0090,FBI Photo A3,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A3.png,agency_controlled,1,-0.5156076,-0.016798422
+doc_0091,FBI Photo A4,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A4.png,agency_controlled,1,-0.58941007,0.011782808
+doc_0093,FBI Photo A6,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A6.png,agency_controlled,1,-0.5070702,-0.022820108
+doc_0092,FBI Photo A5,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A5.png,agency_controlled,1,-0.5228972,0.013591044
+doc_0094,FBI Photo A7,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A7.png,agency_controlled,1,-0.4964938,-0.0018491595
+doc_0095,FBI Photo A8,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A8.png,agency_controlled,1,-0.5694505,0.017277034
+doc_0096,65_HS1-101634279_100-DE-18221_Serial_844,FBI,PDF,ufo_release/FBI/PDF/65_HS1-101634279_100-DE-18221_Serial_844.pdf,agency_controlled,3,0.5698222,-0.037698664
+doc_0097,65_HS1-101634279_100-DE-26505,FBI,PDF,ufo_release/FBI/PDF/65_HS1-101634279_100-DE-26505.pdf,agency_controlled,3,0.70804596,0.1225292
+doc_0087,"DOW-UAP-PR49, Unresolved UAP Report, Department of the Army, 2026",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR49__Unresolved_UAP_Report__Department_of_the_Army__2026.mp4,agency_controlled,1,-0.23410287,0.68679184
+doc_0086,"DOW-UAP-PR48, Unresolved UAP Report, INDOPACOM, 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR48__Unresolved_UAP_Report__INDOPACOM__2024.mp4,agency_controlled,1,-0.058142286,0.63125575
+doc_0098,65_HS1-834228961_62-HQ-83894_SUB_A,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_SUB_A.pdf,agency_controlled,3,0.89880157,0.22587988
+doc_0099,65_HS1-834228961_62-HQ-83894_Section_1,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_1.pdf,agency_controlled,3,0.9377761,0.22094016
+doc_0100,65_HS1-834228961_62-HQ-83894_Section_10,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_10.pdf,agency_controlled,3,0.940388,0.21250625
+doc_0101,65_HS1-834228961_62-HQ-83894_Section_2,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_2.pdf,agency_controlled,3,0.94400144,0.21487327
+doc_0102,65_HS1-834228961_62-HQ-83894_Section_3,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_3.pdf,agency_controlled,3,0.92244023,0.18463983
+doc_0103,65_HS1-834228961_62-HQ-83894_Section_4,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_4.pdf,agency_controlled,3,0.9567287,0.21732908
+doc_0104,65_HS1-834228961_62-HQ-83894_Section_5,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_5.pdf,agency_controlled,3,0.94844675,0.22465004
+doc_0105,65_HS1-834228961_62-HQ-83894_Section_6,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_6.pdf,agency_controlled,3,0.9664664,0.20365465
+doc_0106,65_HS1-834228961_62-HQ-83894_Section_7,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_7.pdf,agency_controlled,3,0.9629573,0.21954979
+doc_0107,65_HS1-834228961_62-HQ-83894_Section_8,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_8.pdf,agency_controlled,3,0.9592148,0.20946926
+doc_0108,65_HS1-834228961_62-HQ-83894_Section_9,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_9.pdf,agency_controlled,3,0.9573274,0.18856338
+doc_0109,65_HS1-834228961_62-HQ-83894_Serial_130,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_130.pdf,agency_controlled,3,0.91348964,0.12399532
+doc_0110,65_HS1-834228961_62-HQ-83894_Serial_153,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_153.pdf,agency_controlled,3,0.67997015,0.2396565
+doc_0111,65_HS1-834228961_62-HQ-83894_Serial_164,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_164.pdf,agency_controlled,3,0.8347056,0.11946129
+doc_0112,65_HS1-834228961_62-HQ-83894_Serial_220,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_220.pdf,agency_controlled,3,0.7098283,0.17857257
+doc_0114,65_HS1-834228961_62-HQ-83894_Serial_438,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_438.pdf,agency_controlled,3,0.76585203,0.15196872
+doc_0113,65_HS1-834228961_62-HQ-83894_Serial_403,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_403.pdf,agency_controlled,3,0.65658414,0.14668666
+doc_0115,65_HS1-834228961_62-HQ-83894_Serial_449,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_449.pdf,agency_controlled,3,0.8220686,0.19992994
+doc_0118,FBI Photo B11,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B11.pdf,agency_controlled,1,-0.77769804,-0.10595136
+doc_0117,FBI Photo B10,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B10.pdf,agency_controlled,1,-0.7532335,-0.12285443
+doc_0116,FBI Photo B1,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B1.pdf,agency_controlled,1,-0.7360409,-0.10735498
+doc_0119,FBI Photo B12,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B12.pdf,agency_controlled,1,-0.7773013,-0.13549995
+doc_0120,FBI Photo B13,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B13.pdf,agency_controlled,1,-0.70762753,-0.17277692
+doc_0121,FBI Photo B14,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B14.pdf,agency_controlled,1,-0.77726245,-0.1427299
+doc_0122,FBI Photo B15,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B15.pdf,agency_controlled,1,-0.7602468,-0.17451279
+doc_0123,FBI Photo B16,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B16.pdf,agency_controlled,1,-0.7779564,-0.14509161
+doc_0124,FBI Photo B17,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B17.pdf,agency_controlled,1,-0.70769215,-0.123312
+doc_0126,FBI Photo B19,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B19.pdf,agency_controlled,1,-0.6834717,-0.07097841
+doc_0125,FBI Photo B18,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B18.pdf,agency_controlled,1,-0.7050728,-0.18067642
+doc_0128,FBI Photo B20,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B20.pdf,agency_controlled,1,-0.75679606,-0.10661983
+doc_0127,FBI Photo B2,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B2.pdf,agency_controlled,1,-0.7632371,-0.13723142
+doc_0130,FBI Photo B22,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B22.pdf,agency_controlled,1,-0.7063084,-0.17619939
+doc_0129,FBI Photo B21,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B21.pdf,agency_controlled,1,-0.7833349,-0.11894876
+doc_0131,FBI Photo B23,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B23.pdf,agency_controlled,1,-0.730405,-0.15541585
+doc_0132,FBI Photo B24,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B24.pdf,agency_controlled,1,-0.75100785,-0.13640898
+doc_0134,FBI Photo B4,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B4.pdf,agency_controlled,1,-0.7483153,-0.09002116
+doc_0133,FBI Photo B3,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B3.pdf,agency_controlled,1,-0.71751904,-0.15573552
+doc_0135,FBI Photo B5,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B5.pdf,agency_controlled,1,-0.72680694,-0.079043284
+doc_0136,FBI Photo B6,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B6.pdf,agency_controlled,1,-0.7070037,-0.102610625
+doc_0138,FBI Photo B8,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B8.pdf,agency_controlled,1,-0.74216336,-0.091067605
+doc_0137,FBI Photo B7,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B7.pdf,agency_controlled,1,-0.7187483,-0.11315222
+doc_0139,FBI Photo B9,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B9.pdf,agency_controlled,1,-0.76904064,-0.10615011
+doc_0140,FBI September 2023 Sighting - Composite Sketch,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Composite_Sketch.pdf,agency_controlled,0,0.05373147,-0.01650701
+doc_0141,FBI September 2023 Sighting - Serial 3,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Serial_3.pdf,agency_controlled,0,0.45734134,-0.13216339
+doc_0142,FBI September 2023 Sighting - Serial 4,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Serial_4.pdf,agency_controlled,0,0.45761672,-0.10386249
+doc_0143,FBI September 2023 Sighting - Serial 5,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Serial_5.pdf,agency_controlled,0,0.47443947,-0.13995285
+doc_0144,"NASA-UAP-VM1, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM1__Apollo_12__1969.jpg,agency_controlled,1,-0.46924403,0.05559904
+doc_0145,"NASA-UAP-VM2, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM2__Apollo_12__1969.jpg,agency_controlled,1,-0.3318823,0.021093123
+doc_0146,"NASA-UAP-VM3, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM3__Apollo_12__1969.jpg,agency_controlled,1,-0.4184326,0.018276133
+doc_0147,"NASA-UAP-VM4, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM4__Apollo_12__1969.jpg,agency_controlled,1,-0.46269605,0.053672615
+doc_0150,255_413270_UFO's_and_Defense_What_Should_we_Prepare_For,NASA,PDF,ufo_release/NASA/PDF/255_413270_UFO_s_and_Defense_What_Should_we_Prepare_For.pdf,agency_controlled,2,0.34142587,-0.018126942
+doc_0149,"NASA-UAP-VM6, Apollo 17, 1972",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM6__Apollo_17__1972.jpg,agency_controlled,1,-0.44381666,-0.03851233
+doc_0148,"NASA-UAP-VM5, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM5__Apollo_12__1969.jpg,agency_controlled,1,-0.38988823,0.05149254
+doc_0151,255_t_763_r1b_transcripts,NASA,PDF,ufo_release/NASA/PDF/255_t_763_r1b_transcripts.pdf,agency_controlled,2,0.2714179,0.013423664
+doc_0152,"NASA-UAP-D1, Apollo 12 Transcript, 1969",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D1__Apollo_12_Transcript__1969.pdf,agency_controlled,4,0.4194742,-0.02199241
+doc_0153,"NASA-UAP-D2, Apollo 17 Transcript, 1972",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D2__Apollo_17_Transcript__1972.pdf,agency_controlled,4,0.47715282,-0.025032729
+doc_0156,"NASA-UAP-D5, Apollo 17 Crew Debriefing for Science, 1973",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D5__Apollo_17_Crew_Debriefing_for_Science__1973.pdf,agency_controlled,4,0.4109109,-0.048052114
+doc_0154,"NASA-UAP-D3, Gemini 7 Transcript, 1965",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D3__Gemini_7_Transcript__1965.pdf,agency_controlled,4,0.36345306,-0.036772717
+doc_0155,"NASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D4__Apollo_11_Technical_Crew_Debriefing__1969.pdf,agency_controlled,4,0.49066684,-0.050913393
+doc_0157,"NASA-UAP-D6, Apollo 17 Technical Crew Debriefing, 1973",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D6__Apollo_17_Technical_Crew_Debriefing__1973.pdf,agency_controlled,4,0.2837045,-0.16173436
+doc_0159,255-t-763-r1b-excerpt,NASA,VID,ufo_release/NASA/VID/255-t-763-r1b-excerpt.mp4,agency_controlled,1,-0.16860656,0.39608496
+doc_0158,"NASA-UAP-D7, Skylab Techincal Crew Debriefing 1973",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D7__Skylab_Techincal_Crew_Debriefing_1973.pdf,agency_controlled,4,0.39374882,-0.059091568
+doc_0003,"State Department UAP Cable 1, Papua New Guinea, January 28, 1985",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_1__Papua_New_Guinea__January_28__1985.pdf,modality_controlled,4,-0.22432072,-0.08576414
+doc_0004,"State Department UAP Cable 2, Kazakhstan, January 31, 1994",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_2__Kazakhstan__January_31__1994.pdf,modality_controlled,4,-0.24739678,-0.07520397
+doc_0001,59_214434_SP 16 [7.18.1963],Department of State,PDF,ufo_release/Department of State/PDF/59_214434_SP_16__7_18_1963_.pdf,modality_controlled,4,-0.20376712,-0.42506889
+doc_0002,59_64634_711.5612[7-2852,Department of State,PDF,ufo_release/Department of State/PDF/59_64634_711_5612_7-2852.pdf,modality_controlled,4,-0.18360674,-0.43668917
+doc_0006,"State Department UAP Cable 4, Ashgabat, Turkmenistan, November 5, 2004",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_4__Ashgabat__Turkmenistan__November_5__2004.pdf,modality_controlled,4,-0.2917188,-0.076787375
+doc_0007,"State Department UAP Cable 5, Mexico, September 16, 2003",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_5__Mexico__September_16__2003.pdf,modality_controlled,4,-0.17129461,-0.047262914
+doc_0005,"State Department UAP Cable 3, Tbilisi, Georgia, October 30, 2001",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_3__Tbilisi__Georgia__October_30__2001.pdf,modality_controlled,4,-0.3016066,-0.044743467
+doc_0009,18_100754_ General 1946-7_Vol_2,Department of War,PDF,ufo_release/Department of War/PDF/18_100754__General_1946-7_Vol_2.pdf,modality_controlled,2,-0.25348726,-0.50605613
+doc_0008,USPER Statement about UAP Sighting,Department of State,PDF,ufo_release/Department of State/PDF/USPER_Statement_about_UAP_Sighting.pdf,modality_controlled,4,-0.012294304,0.12360557
+doc_0010,18_6369445_General_1948_Vol_1,Department of War,PDF,ufo_release/Department of War/PDF/18_6369445_General_1948_Vol_1.pdf,modality_controlled,2,-0.25902292,-0.49636158
+doc_0011,331_120752_Numeric_Files_1944–1945_37153_German_Armament_Equipment_Documents,Department of War,PDF,ufo_release/Department of War/PDF/331_120752_Numeric_Files_1944_1945_37153_German_Armament_Equipment_Documents.pdf,modality_controlled,2,-0.29303244,-0.34682506
+doc_0012,341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No.2_2-5300-2-5399,Department of War,PDF,ufo_release/Department of War/PDF/341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No_2_2-5300-2-5399.pdf,modality_controlled,2,-0.23380399,-0.2977913
+doc_0014,342_HS1-416511228_319.1 Flying Discs 1949,Department of War,PDF,ufo_release/Department of War/PDF/342_HS1-416511228_319_1_Flying_Discs_1949.pdf,modality_controlled,2,-0.32103464,-0.59030163
+doc_0013,"341_110677_Numerical_File,_5-2500",Department of War,PDF,ufo_release/Department of War/PDF/341_110677_Numerical_File__5-2500.pdf,modality_controlled,2,-0.23233666,-0.25231493
+doc_0015,38_143685_box7_Incident_Summaries_1-100,Department of War,PDF,ufo_release/Department of War/PDF/38_143685_box7_Incident_Summaries_1-100.pdf,modality_controlled,2,-0.2926633,-0.5342563
+doc_0016,38_143685_box_Incident_Summaries_101-172,Department of War,PDF,ufo_release/Department of War/PDF/38_143685_box_Incident_Summaries_101-172.pdf,modality_controlled,2,-0.29434004,-0.5512226
+doc_0017,38_143685_box_Incident_Summaries_173-233,Department of War,PDF,ufo_release/Department of War/PDF/38_143685_box_Incident_Summaries_173-233.pdf,modality_controlled,2,-0.28963417,-0.5106898
+doc_0019,"DOW-UAP-D19, Mission Report, Syria, February 21, 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D19__Mission_Report__Syria__February_21__2023.pdf,modality_controlled,0,-0.40807065,0.4692674
+doc_0018,"DOW-UAP-D12, Mission Report, Iraq, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D12__Mission_Report__Iraq__May_2022.pdf,modality_controlled,0,-0.4427539,0.48123753
+doc_0021,"DOW-UAP-D25, Mission Report, Greece, January 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D25__Mission_Report__Greece__January_2024.pdf,modality_controlled,0,-0.3949673,0.50404
+doc_0022,"DOW-UAP-D27, Mission Report, United Arab Emirates, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D27__Mission_Report__United_Arab_Emirates__October_2023.pdf,modality_controlled,0,-0.45207113,0.57903254
+doc_0024,"DOW-UAP-D3, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D3__Mission_Report__Arabian_Gulf__2020.pdf,modality_controlled,0,-0.38676152,0.52158666
+doc_0023,"DOW-UAP-D28, Mission Report, Iraq, September 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D28__Mission_Report__Iraq__September_2024.pdf,modality_controlled,0,-0.37192357,0.51014775
+doc_0020,"DOW-UAP-D20, Mission Report, Southern United States, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D20__Mission_Report__Southern_United_States__2020.pdf,modality_controlled,0,-0.36619613,0.50204164
+doc_0026,"DOW-UAP-D44, Range Fouler Reporting Form, Gulf of Aden, October 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D44__Range_Fouler_Reporting_Form__Gulf_of_Aden__October_2020.pdf,modality_controlled,0,-0.24395776,0.47233483
+doc_0025,"DOW-UAP-D42, Range Fouler Debrief, Japan, 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D42__Range_Fouler_Debrief__Japan__2023.pdf,modality_controlled,0,-0.111639574,0.41001645
+doc_0027,"DOW-UAP-D48, Department of the Air Force Report, 1996",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D48__Department_of_the_Air_Force_Report__1996.pdf,modality_controlled,4,-0.26396245,-0.039848786
+doc_0028,"DOW-UAP-D49, Launch Summary, Vandenberg AFB, 2000",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D49__Launch_Summary__Vandenberg_AFB__2000.pdf,modality_controlled,4,-0.20374066,-0.0493358
+doc_0029,"DOW-UAP-D4, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D4__Mission_Report__Arabian_Gulf__2020.pdf,modality_controlled,0,-0.23607053,0.47922507
+doc_0030,"DOW-UAP-D50, Email Correspondence, INDOPACOM, April 2025",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D50__Email_Correspondence__INDOPACOM__April_2025.pdf,modality_controlled,0,-0.23896512,0.25796926
+doc_0032,"DOW-UAP-D52, Email Correspondance, NA, August 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D52__Email_Correspondance__NA__August_2024.pdf,modality_controlled,0,-0.14880106,0.2453949
+doc_0031,"DOW-UAP-D51, Email Correspondence, Pacific Time Zone, March 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D51__Email_Correspondence__Pacific_Time_Zone__March_2023.pdf,modality_controlled,0,-0.20278862,0.23316188
+doc_0033,"DOW-UAP-D54, Mission Report, Mediterranean Sea, NA",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D54__Mission_Report__Mediterranean_Sea__NA.pdf,modality_controlled,0,-0.28583023,0.23674662
+doc_0034,"DOW-UAP-D55, Mission Report, Syria, November 2016",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D55__Mission_Report__Syria__November_2016.pdf,modality_controlled,0,-0.09790743,0.42746136
+doc_0035,"DOW-UAP-D56, Range Fouler Debrief, Arabian Sea, August 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D56__Range_Fouler_Debrief__Arabian_Sea__August_2020.pdf,modality_controlled,0,-0.20888726,0.46527934
+doc_0036,"DOW-UAP-D57, Range Fouler Reporting Form, Gulf of Aden, September 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D57__Range_Fouler_Reporting_Form__Gulf_of_Aden__September_2020.pdf,modality_controlled,0,-0.2567916,0.42741704
+doc_0037,"DOW-UAP-D58, Range Fouler Debrief, NA, October 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D58__Range_Fouler_Debrief__NA__October_2020.pdf,modality_controlled,0,-0.188367,0.30901074
+doc_0038,"DOW-UAP-D5, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D5__Mission_Report__Arabian_Gulf__2020.pdf,modality_controlled,0,-0.27342483,0.45728606
+doc_0040,"DOW-UAP-D61, Mission Report, Persian Gulf, August 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D61__Mission_Report__Persian_Gulf__August_2020.pdf,modality_controlled,0,-0.3992056,0.5651152
+doc_0041,"DOW-UAP-D62, Mission Report, Strait of Hormuz, September 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D62__Mission_Report__Strait_of_Hormuz__September_2020.pdf,modality_controlled,0,-0.44153768,0.55584157
+doc_0039,"DOW-UAP-D60, Mission Report, Persian Gulf, August 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D60__Mission_Report__Persian_Gulf__August_2020.pdf,modality_controlled,0,-0.4959689,0.53335315
+doc_0043,"DOW-UAP-D64, Mission Report, Iran, November 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D64__Mission_Report__Iran__November_2020.pdf,modality_controlled,0,-0.3141109,0.54790676
+doc_0042,"DOW-UAP-D63, Mission Report, Strait of Hormuz, October 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D63__Mission_Report__Strait_of_Hormuz__October_2020.pdf,modality_controlled,0,-0.3095837,0.536343
+doc_0045,"DOW-UAP-D6, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D6__Mission_Report__Arabian_Gulf__2020.pdf,modality_controlled,0,-0.19140436,0.45114785
+doc_0044,"DOW-UAP-D65, Mission Report, Persian Gulf, July 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D65__Mission_Report__Persian_Gulf__July_2020.pdf,modality_controlled,0,-0.4778785,0.5419205
+doc_0046,"DOW-UAP-D74, Mission Report, Syria, November 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D74__Mission_Report__Syria__November_2023.pdf,modality_controlled,0,-0.47022337,0.4733101
+doc_0047,"DOW-UAP-D75, Mission Report, Gulf of Aden, July 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D75__Mission_Report__Gulf_of_Aden__July_2024.pdf,modality_controlled,0,-0.4576844,0.5328667
+doc_0049,"DOW-UAP-D8, Mission Report, Djibouti, 2025",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D8__Mission_Report__Djibouti__2025.pdf,modality_controlled,0,-0.15116644,0.4055439
+doc_0048,"DOW-UAP-D7, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D7__Mission_Report__Arabian_Gulf__2020.pdf,modality_controlled,0,-0.24486522,0.502111
+doc_0050,"DOW-UAP-PR19, Unresolved UAP Report, Middle East, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR19__Unresolved_UAP_Report__Middle_East__May_2022.pdf,modality_controlled,0,-0.44248646,0.46436548
+doc_0051,"DOW-UAP-PR20, Unresolved UAP Report, Kuwait, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR20__Unresolved_UAP_Report__Kuwait__May_2022.pdf,modality_controlled,0,-0.09593963,0.45036668
+doc_0052,"DOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR21__Unresolved_UAP_Report__Iraq__May_2022.pdf,modality_controlled,0,-0.5036929,0.4311736
+doc_0053,"DOW-UAP-PR22, Unresolved UAP Report, Syria, July 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR22__Unresolved_UAP_Report__Syria__July_2022.pdf,modality_controlled,0,-0.36883265,0.48559168
+doc_0055,"DOW-UAP-PR26, Unresolved UAP Report, United Arab Emirates, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR26__Unresolved_UAP_Report__United_Arab_Emirates__October_2023.pdf,modality_controlled,0,-0.51028913,0.49208698
+doc_0056,"DOW-UAP-PR27, Unresolved UAP Report, United Arab Emirates, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR27__Unresolved_UAP_Report__United_Arab_Emirates__October_2023.pdf,modality_controlled,0,-0.5245366,0.47838694
+doc_0054,"DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR23__Unresolved_UAP_Report__Iraq__December_2022.pdf,modality_controlled,0,-0.43950453,0.42038906
+doc_0057,"DOW-UAP-PR31, Unresolved UAP Report, Syria, October 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR31__Unresolved_UAP_Report__Syria__October_2024.pdf,modality_controlled,0,-0.41707513,0.49616477
+doc_0058,"DOW-UAP-PR32, Unresolved UAP Report, Syria, October 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR32__Unresolved_UAP_Report__Syria__October_2024.pdf,modality_controlled,0,-0.41360924,0.5036798
+doc_0059,"DOW-UAP-PR33, Unresolved UAP Report, Syria, October 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR33__Unresolved_UAP_Report__Syria__October_2024.pdf,modality_controlled,0,-0.409996,0.5006457
+doc_0060,"DOW-UAP-PR34, Unresolved UAP Report, Greece, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR34__Unresolved_UAP_Report__Greece__October_2023.pdf,modality_controlled,0,-0.41994613,0.44172361
+doc_0061,"DOW-UAP-PR35, Unresolved UAP Report, Greece, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR35__Unresolved_UAP_Report__Greece__October_2023.pdf,modality_controlled,0,-0.41086102,0.44464818
+doc_0063,Western US Event,Department of War,PDF,ufo_release/Department of War/PDF/Western_US_Event.pdf,modality_controlled,0,0.020185003,0.33321893
+doc_0062,"DOW-UAP-PR36, Unresolved UAP Report, Middle East, May 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR36__Unresolved_UAP_Report__Middle_East__May_2020.pdf,modality_controlled,0,-0.1440356,0.47666496
+doc_0064,"DOW-UAP-D10, Mission Report, Middle East, May 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D10__Mission_Report__Middle_East__May_2022.mp4,modality_controlled,1,0.24015075,0.06715263
+doc_0067,"DOW-UAP-D18, Mission Report, Iraq, December 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D18__Mission_Report__Iraq__December_2022.mp4,modality_controlled,1,0.20360667,0.037209067
+doc_0065,"DOW-UAP-D14, Mission Report, Iraq, May 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D14__Mission_Report__Iraq__May_2022.mp4,modality_controlled,1,0.25344008,0.084378086
+doc_0069,"DOW-UAP-D32, Mission Report, Syria, October 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D32__Mission_Report__Syria__October_2024.mp4,modality_controlled,1,0.24760102,0.05402083
+doc_0070,"DOW-UAP-D33, Mission Report, Greece, October 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D33__Mission_Report__Greece__October_2023.mp4,modality_controlled,1,0.16271988,0.034489777
+doc_0066,"DOW-UAP-D16, Mission Report, Syria, July 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D16__Mission_Report__Syria__July_2022.mp4,modality_controlled,1,0.12589322,0.11179478
+doc_0072,"DOW-UAP-D38, Range Fouler Debrief, Middle East, May 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D38__Range_Fouler_Debrief__Middle_East__May_2020.mp4,modality_controlled,4,0.081997946,-0.020944357
+doc_0071,"DOW-UAP-D35, Mission Report, Greece, October 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D35__Mission_Report__Greece__October_2023.mp4,modality_controlled,0,-0.1288773,0.046807952
+doc_0075,"DOW-UAP-PR37, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR37__Unresolved_UAP_Report__Middle_East__2020.mp4,modality_controlled,0,0.07070749,0.1340312
+doc_0068,"DOW-UAP-D23, Mission Report, United Arab Emirates, October 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D23__Mission_Report__United_Arab_Emirates__October_2023.mp4,modality_controlled,0,-0.1875106,0.15902038
+doc_0074,"DOW-UAP-PR29, Unresolved UAP Report, United Arab Emirates, June 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR29__Unresolved_UAP_Report__United_Arab_Emirates__June_2024.mp4,modality_controlled,0,-0.2268518,0.13379993
+doc_0077,"DOW-UAP-PR39, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR39__Unresolved_UAP_Report__Middle_East__2020.mp4,modality_controlled,1,0.12701689,0.15204147
+doc_0073,"DOW-UAP-PR28, Unresolved UAP Report, Greece, January 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR28__Unresolved_UAP_Report__Greece__January_2024.mp4,modality_controlled,0,-0.14792871,-0.0059244563
+doc_0080,"DOW-UAP-PR42, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR42__Unresolved_UAP_Report__Middle_East__2020.mp4,modality_controlled,4,0.060545556,-0.00059432175
+doc_0076,"DOW-UAP-PR38, Unresolved UAP Report, Middle East, 2013",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR38__Unresolved_UAP_Report__Middle_East__2013.mp4,modality_controlled,0,-0.25560674,-0.05361279
+doc_0081,"DOW-UAP-PR43, Unresolved UAP Report, Africa, 2025",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR43__Unresolved_UAP_Report__Africa__2025.mp4,modality_controlled,1,0.19568211,-0.01597075
+doc_0082,"DOW-UAP-PR44, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR44__Unresolved_UAP_Report__Middle_East__2020.mp4,modality_controlled,4,0.016325247,-0.012483752
+doc_0078,"DOW-UAP-PR40, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR40__Unresolved_UAP_Report__Middle_East__2020.mp4,modality_controlled,0,-0.29182655,0.051899202
+doc_0084,"DOW-UAP-PR46, Unresolved UAP Report, INDOPACOM, 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR46__Unresolved_UAP_Report__INDOPACOM__2024.mp4,modality_controlled,1,0.21667956,-0.013627342
+doc_0083,"DOW-UAP-PR45, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR45__Unresolved_UAP_Report__Middle_East__2020.mp4,modality_controlled,0,-0.022353109,0.039927665
+doc_0085,"DOW-UAP-PR47, Unresolved UAP Report, INDOPACOM, 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR47__Unresolved_UAP_Report__INDOPACOM__2023.mp4,modality_controlled,2,-0.08486365,-0.09868627
+doc_0088,FBI Photo A1,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A1.png,modality_controlled,1,0.56605285,0.020576792
+doc_0079,"DOW-UAP-PR41, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR41__Unresolved_UAP_Report__Middle_East__2020.mp4,modality_controlled,0,-0.23663995,0.059644554
+doc_0089,FBI Photo A2,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A2.png,modality_controlled,1,0.4940458,0.10723063
+doc_0090,FBI Photo A3,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A3.png,modality_controlled,1,0.49359006,0.056594394
+doc_0091,FBI Photo A4,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A4.png,modality_controlled,1,0.5149883,0.119698115
+doc_0093,FBI Photo A6,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A6.png,modality_controlled,1,0.5219465,0.0013799539
+doc_0092,FBI Photo A5,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A5.png,modality_controlled,1,0.5183441,0.03191274
+doc_0094,FBI Photo A7,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A7.png,modality_controlled,1,0.4719985,0.027467413
+doc_0095,FBI Photo A8,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A8.png,modality_controlled,1,0.5783182,0.046831932
+doc_0096,65_HS1-101634279_100-DE-18221_Serial_844,FBI,PDF,ufo_release/FBI/PDF/65_HS1-101634279_100-DE-18221_Serial_844.pdf,modality_controlled,3,0.0042855414,-0.42794028
+doc_0097,65_HS1-101634279_100-DE-26505,FBI,PDF,ufo_release/FBI/PDF/65_HS1-101634279_100-DE-26505.pdf,modality_controlled,3,-0.1358645,-0.5525006
+doc_0087,"DOW-UAP-PR49, Unresolved UAP Report, Department of the Army, 2026",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR49__Unresolved_UAP_Report__Department_of_the_Army__2026.mp4,modality_controlled,4,-0.012788068,-0.10774308
+doc_0086,"DOW-UAP-PR48, Unresolved UAP Report, INDOPACOM, 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR48__Unresolved_UAP_Report__INDOPACOM__2024.mp4,modality_controlled,4,-0.23605019,-0.11043994
+doc_0098,65_HS1-834228961_62-HQ-83894_SUB_A,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_SUB_A.pdf,modality_controlled,3,-0.16058564,-0.8038409
+doc_0099,65_HS1-834228961_62-HQ-83894_Section_1,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_1.pdf,modality_controlled,3,-0.11156664,-0.8518614
+doc_0100,65_HS1-834228961_62-HQ-83894_Section_10,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_10.pdf,modality_controlled,3,-0.14323498,-0.8532273
+doc_0101,65_HS1-834228961_62-HQ-83894_Section_2,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_2.pdf,modality_controlled,3,-0.1219431,-0.8551052
+doc_0102,65_HS1-834228961_62-HQ-83894_Section_3,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_3.pdf,modality_controlled,3,-0.12113386,-0.83319896
+doc_0103,65_HS1-834228961_62-HQ-83894_Section_4,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_4.pdf,modality_controlled,3,-0.12784626,-0.8715519
+doc_0104,65_HS1-834228961_62-HQ-83894_Section_5,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_5.pdf,modality_controlled,3,-0.12135286,-0.8608899
+doc_0105,65_HS1-834228961_62-HQ-83894_Section_6,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_6.pdf,modality_controlled,3,-0.13826577,-0.88114864
+doc_0106,65_HS1-834228961_62-HQ-83894_Section_7,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_7.pdf,modality_controlled,3,-0.13215834,-0.8753197
+doc_0107,65_HS1-834228961_62-HQ-83894_Section_8,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_8.pdf,modality_controlled,3,-0.14717849,-0.8627837
+doc_0108,65_HS1-834228961_62-HQ-83894_Section_9,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_9.pdf,modality_controlled,3,-0.14495043,-0.8625675
+doc_0109,65_HS1-834228961_62-HQ-83894_Serial_130,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_130.pdf,modality_controlled,3,-0.14267774,-0.7996647
+doc_0110,65_HS1-834228961_62-HQ-83894_Serial_153,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_153.pdf,modality_controlled,3,0.08656152,-0.6618115
+doc_0111,65_HS1-834228961_62-HQ-83894_Serial_164,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_164.pdf,modality_controlled,3,-0.15356648,-0.7038372
+doc_0112,65_HS1-834228961_62-HQ-83894_Serial_220,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_220.pdf,modality_controlled,3,-0.035304196,-0.6178307
+doc_0114,65_HS1-834228961_62-HQ-83894_Serial_438,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_438.pdf,modality_controlled,3,-0.06627202,-0.6805394
+doc_0113,65_HS1-834228961_62-HQ-83894_Serial_403,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_403.pdf,modality_controlled,3,-0.005369612,-0.57449985
+doc_0115,65_HS1-834228961_62-HQ-83894_Serial_449,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_449.pdf,modality_controlled,3,-0.08255309,-0.7475561
+doc_0118,FBI Photo B11,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B11.pdf,modality_controlled,1,0.9500765,0.11391161
+doc_0117,FBI Photo B10,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B10.pdf,modality_controlled,1,0.9316938,0.123485684
+doc_0116,FBI Photo B1,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B1.pdf,modality_controlled,1,0.9311003,0.13204738
+doc_0119,FBI Photo B12,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B12.pdf,modality_controlled,1,0.92899233,0.14679214
+doc_0120,FBI Photo B13,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B13.pdf,modality_controlled,1,0.90300256,0.14965416
+doc_0121,FBI Photo B14,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B14.pdf,modality_controlled,1,0.9400156,0.12073741
+doc_0122,FBI Photo B15,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B15.pdf,modality_controlled,1,0.9296417,0.11970129
+doc_0123,FBI Photo B16,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B16.pdf,modality_controlled,1,0.93687755,0.12797342
+doc_0124,FBI Photo B17,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B17.pdf,modality_controlled,1,0.9145382,0.10794751
+doc_0126,FBI Photo B19,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B19.pdf,modality_controlled,1,0.9111752,0.06871645
+doc_0125,FBI Photo B18,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B18.pdf,modality_controlled,1,0.90112567,0.15234153
+doc_0128,FBI Photo B20,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B20.pdf,modality_controlled,1,0.94521874,0.09131862
+doc_0127,FBI Photo B2,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B2.pdf,modality_controlled,1,0.9396329,0.11154024
+doc_0130,FBI Photo B22,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B22.pdf,modality_controlled,1,0.9010557,0.1460009
+doc_0129,FBI Photo B21,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B21.pdf,modality_controlled,1,0.9499375,0.096600145
+doc_0131,FBI Photo B23,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B23.pdf,modality_controlled,1,0.93389666,0.10140807
+doc_0132,FBI Photo B24,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B24.pdf,modality_controlled,1,0.9339646,0.13433336
+doc_0134,FBI Photo B4,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B4.pdf,modality_controlled,1,0.92717236,0.1148515
+doc_0133,FBI Photo B3,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B3.pdf,modality_controlled,1,0.9132874,0.12371181
+doc_0135,FBI Photo B5,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B5.pdf,modality_controlled,1,0.9215295,0.115364544
+doc_0136,FBI Photo B6,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B6.pdf,modality_controlled,1,0.90676546,0.11716743
+doc_0138,FBI Photo B8,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B8.pdf,modality_controlled,1,0.9211818,0.11444402
+doc_0137,FBI Photo B7,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B7.pdf,modality_controlled,1,0.92143637,0.11205134
+doc_0139,FBI Photo B9,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B9.pdf,modality_controlled,1,0.9412796,0.11349527
+doc_0140,FBI September 2023 Sighting - Composite Sketch,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Composite_Sketch.pdf,modality_controlled,1,0.3508251,-0.039454147
+doc_0141,FBI September 2023 Sighting - Serial 3,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Serial_3.pdf,modality_controlled,4,-0.13107002,-0.069792345
+doc_0142,FBI September 2023 Sighting - Serial 4,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Serial_4.pdf,modality_controlled,4,-0.16193421,-0.04244473
+doc_0143,FBI September 2023 Sighting - Serial 5,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Serial_5.pdf,modality_controlled,4,-0.15246403,-0.071218476
+doc_0144,"NASA-UAP-VM1, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM1__Apollo_12__1969.jpg,modality_controlled,4,-0.5135497,-0.044811174
+doc_0145,"NASA-UAP-VM2, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM2__Apollo_12__1969.jpg,modality_controlled,4,-0.52069825,-0.123810545
+doc_0146,"NASA-UAP-VM3, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM3__Apollo_12__1969.jpg,modality_controlled,4,-0.57780594,-0.063849635
+doc_0147,"NASA-UAP-VM4, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM4__Apollo_12__1969.jpg,modality_controlled,4,-0.53380305,-0.025580894
+doc_0150,255_413270_UFO's_and_Defense_What_Should_we_Prepare_For,NASA,PDF,ufo_release/NASA/PDF/255_413270_UFO_s_and_Defense_What_Should_we_Prepare_For.pdf,modality_controlled,4,-0.22273867,-0.3322944
+doc_0149,"NASA-UAP-VM6, Apollo 17, 1972",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM6__Apollo_17__1972.jpg,modality_controlled,4,-0.5477428,-0.0366676
+doc_0148,"NASA-UAP-VM5, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM5__Apollo_12__1969.jpg,modality_controlled,4,-0.54696786,-0.10581579
+doc_0151,255_t_763_r1b_transcripts,NASA,PDF,ufo_release/NASA/PDF/255_t_763_r1b_transcripts.pdf,modality_controlled,4,-0.13397649,-0.31961143
+doc_0152,"NASA-UAP-D1, Apollo 12 Transcript, 1969",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D1__Apollo_12_Transcript__1969.pdf,modality_controlled,4,-0.32300678,-0.28321305
+doc_0153,"NASA-UAP-D2, Apollo 17 Transcript, 1972",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D2__Apollo_17_Transcript__1972.pdf,modality_controlled,4,-0.36274505,-0.28984305
+doc_0156,"NASA-UAP-D5, Apollo 17 Crew Debriefing for Science, 1973",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D5__Apollo_17_Crew_Debriefing_for_Science__1973.pdf,modality_controlled,4,-0.27529973,-0.3099954
+doc_0154,"NASA-UAP-D3, Gemini 7 Transcript, 1965",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D3__Gemini_7_Transcript__1965.pdf,modality_controlled,4,-0.23780885,-0.3073031
+doc_0155,"NASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D4__Apollo_11_Technical_Crew_Debriefing__1969.pdf,modality_controlled,4,-0.34857795,-0.3349892
+doc_0157,"NASA-UAP-D6, Apollo 17 Technical Crew Debriefing, 1973",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D6__Apollo_17_Technical_Crew_Debriefing__1973.pdf,modality_controlled,4,-0.26230663,-0.16480678
+doc_0159,255-t-763-r1b-excerpt,NASA,VID,ufo_release/NASA/VID/255-t-763-r1b-excerpt.mp4,modality_controlled,4,0.17049655,-0.41253912
+doc_0158,"NASA-UAP-D7, Skylab Techincal Crew Debriefing 1973",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D7__Skylab_Techincal_Crew_Debriefing_1973.pdf,modality_controlled,4,-0.30931115,-0.24806634
+doc_0003,"State Department UAP Cable 1, Papua New Guinea, January 28, 1985",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_1__Papua_New_Guinea__January_28__1985.pdf,agency_modality_controlled,0,0.018224902,0.066631064
+doc_0004,"State Department UAP Cable 2, Kazakhstan, January 31, 1994",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_2__Kazakhstan__January_31__1994.pdf,agency_modality_controlled,4,0.003916524,0.14767063
+doc_0001,59_214434_SP 16 [7.18.1963],Department of State,PDF,ufo_release/Department of State/PDF/59_214434_SP_16__7_18_1963_.pdf,agency_modality_controlled,2,0.23045544,-0.3349725
+doc_0002,59_64634_711.5612[7-2852,Department of State,PDF,ufo_release/Department of State/PDF/59_64634_711_5612_7-2852.pdf,agency_modality_controlled,2,0.23141499,-0.3476137
+doc_0006,"State Department UAP Cable 4, Ashgabat, Turkmenistan, November 5, 2004",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_4__Ashgabat__Turkmenistan__November_5__2004.pdf,agency_modality_controlled,0,0.09758299,0.19988847
+doc_0007,"State Department UAP Cable 5, Mexico, September 16, 2003",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_5__Mexico__September_16__2003.pdf,agency_modality_controlled,0,-0.07934772,0.11300965
+doc_0005,"State Department UAP Cable 3, Tbilisi, Georgia, October 30, 2001",Department of State,PDF,ufo_release/Department of State/PDF/State_Department_UAP_Cable_3__Tbilisi__Georgia__October_30__2001.pdf,agency_modality_controlled,0,0.050905798,0.17673644
+doc_0009,18_100754_ General 1946-7_Vol_2,Department of War,PDF,ufo_release/Department of War/PDF/18_100754__General_1946-7_Vol_2.pdf,agency_modality_controlled,2,0.42202416,-0.51028633
+doc_0008,USPER Statement about UAP Sighting,Department of State,PDF,ufo_release/Department of State/PDF/USPER_Statement_about_UAP_Sighting.pdf,agency_modality_controlled,1,-0.31638342,-0.07090057
+doc_0010,18_6369445_General_1948_Vol_1,Department of War,PDF,ufo_release/Department of War/PDF/18_6369445_General_1948_Vol_1.pdf,agency_modality_controlled,2,0.42741293,-0.5408917
+doc_0011,331_120752_Numeric_Files_1944–1945_37153_German_Armament_Equipment_Documents,Department of War,PDF,ufo_release/Department of War/PDF/331_120752_Numeric_Files_1944_1945_37153_German_Armament_Equipment_Documents.pdf,agency_modality_controlled,2,0.3609993,-0.4063308
+doc_0012,341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No.2_2-5300-2-5399,Department of War,PDF,ufo_release/Department of War/PDF/341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No_2_2-5300-2-5399.pdf,agency_modality_controlled,2,0.3080427,-0.41647
+doc_0014,342_HS1-416511228_319.1 Flying Discs 1949,Department of War,PDF,ufo_release/Department of War/PDF/342_HS1-416511228_319_1_Flying_Discs_1949.pdf,agency_modality_controlled,2,0.50340825,-0.5595562
+doc_0013,"341_110677_Numerical_File,_5-2500",Department of War,PDF,ufo_release/Department of War/PDF/341_110677_Numerical_File__5-2500.pdf,agency_modality_controlled,2,0.29203194,-0.29782593
+doc_0015,38_143685_box7_Incident_Summaries_1-100,Department of War,PDF,ufo_release/Department of War/PDF/38_143685_box7_Incident_Summaries_1-100.pdf,agency_modality_controlled,2,0.46448672,-0.55431587
+doc_0016,38_143685_box_Incident_Summaries_101-172,Department of War,PDF,ufo_release/Department of War/PDF/38_143685_box_Incident_Summaries_101-172.pdf,agency_modality_controlled,2,0.47174388,-0.571349
+doc_0017,38_143685_box_Incident_Summaries_173-233,Department of War,PDF,ufo_release/Department of War/PDF/38_143685_box_Incident_Summaries_173-233.pdf,agency_modality_controlled,2,0.4564223,-0.52053344
+doc_0019,"DOW-UAP-D19, Mission Report, Syria, February 21, 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D19__Mission_Report__Syria__February_21__2023.pdf,agency_modality_controlled,0,0.0014399912,0.39784923
+doc_0018,"DOW-UAP-D12, Mission Report, Iraq, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D12__Mission_Report__Iraq__May_2022.pdf,agency_modality_controlled,0,0.028632414,0.48448926
+doc_0021,"DOW-UAP-D25, Mission Report, Greece, January 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D25__Mission_Report__Greece__January_2024.pdf,agency_modality_controlled,0,-0.05546438,0.3488739
+doc_0022,"DOW-UAP-D27, Mission Report, United Arab Emirates, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D27__Mission_Report__United_Arab_Emirates__October_2023.pdf,agency_modality_controlled,0,-0.07532968,0.43732554
+doc_0024,"DOW-UAP-D3, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D3__Mission_Report__Arabian_Gulf__2020.pdf,agency_modality_controlled,4,-0.107753634,-0.023307553
+doc_0023,"DOW-UAP-D28, Mission Report, Iraq, September 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D28__Mission_Report__Iraq__September_2024.pdf,agency_modality_controlled,0,-0.059832267,0.47442237
+doc_0020,"DOW-UAP-D20, Mission Report, Southern United States, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D20__Mission_Report__Southern_United_States__2020.pdf,agency_modality_controlled,0,-0.06697726,0.4067531
+doc_0026,"DOW-UAP-D44, Range Fouler Reporting Form, Gulf of Aden, October 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D44__Range_Fouler_Reporting_Form__Gulf_of_Aden__October_2020.pdf,agency_modality_controlled,1,-0.17702365,-0.08452814
+doc_0025,"DOW-UAP-D42, Range Fouler Debrief, Japan, 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D42__Range_Fouler_Debrief__Japan__2023.pdf,agency_modality_controlled,1,-0.23220441,-0.23117511
+doc_0027,"DOW-UAP-D48, Department of the Air Force Report, 1996",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D48__Department_of_the_Air_Force_Report__1996.pdf,agency_modality_controlled,2,0.15887025,-0.3116114
+doc_0028,"DOW-UAP-D49, Launch Summary, Vandenberg AFB, 2000",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D49__Launch_Summary__Vandenberg_AFB__2000.pdf,agency_modality_controlled,2,0.10440899,-0.37473276
+doc_0029,"DOW-UAP-D4, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D4__Mission_Report__Arabian_Gulf__2020.pdf,agency_modality_controlled,1,-0.17656147,-0.091671154
+doc_0030,"DOW-UAP-D50, Email Correspondence, INDOPACOM, April 2025",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D50__Email_Correspondence__INDOPACOM__April_2025.pdf,agency_modality_controlled,1,-0.040670276,-0.22140734
+doc_0032,"DOW-UAP-D52, Email Correspondance, NA, August 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D52__Email_Correspondance__NA__August_2024.pdf,agency_modality_controlled,1,-0.09282893,-0.24121492
+doc_0031,"DOW-UAP-D51, Email Correspondence, Pacific Time Zone, March 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D51__Email_Correspondence__Pacific_Time_Zone__March_2023.pdf,agency_modality_controlled,1,-0.020014392,-0.13383937
+doc_0033,"DOW-UAP-D54, Mission Report, Mediterranean Sea, NA",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D54__Mission_Report__Mediterranean_Sea__NA.pdf,agency_modality_controlled,1,0.030227529,-0.25153783
+doc_0034,"DOW-UAP-D55, Mission Report, Syria, November 2016",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D55__Mission_Report__Syria__November_2016.pdf,agency_modality_controlled,1,-0.25668868,-0.17774339
+doc_0035,"DOW-UAP-D56, Range Fouler Debrief, Arabian Sea, August 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D56__Range_Fouler_Debrief__Arabian_Sea__August_2020.pdf,agency_modality_controlled,1,-0.205769,-0.14878784
+doc_0036,"DOW-UAP-D57, Range Fouler Reporting Form, Gulf of Aden, September 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D57__Range_Fouler_Reporting_Form__Gulf_of_Aden__September_2020.pdf,agency_modality_controlled,1,-0.13738932,-0.11288937
+doc_0037,"DOW-UAP-D58, Range Fouler Debrief, NA, October 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D58__Range_Fouler_Debrief__NA__October_2020.pdf,agency_modality_controlled,1,-0.106596835,-0.23103343
+doc_0038,"DOW-UAP-D5, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D5__Mission_Report__Arabian_Gulf__2020.pdf,agency_modality_controlled,1,-0.1279466,-0.04775104
+doc_0040,"DOW-UAP-D61, Mission Report, Persian Gulf, August 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D61__Mission_Report__Persian_Gulf__August_2020.pdf,agency_modality_controlled,4,-0.13347839,0.120152876
+doc_0041,"DOW-UAP-D62, Mission Report, Strait of Hormuz, September 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D62__Mission_Report__Strait_of_Hormuz__September_2020.pdf,agency_modality_controlled,4,-0.06530583,0.2935572
+doc_0039,"DOW-UAP-D60, Mission Report, Persian Gulf, August 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D60__Mission_Report__Persian_Gulf__August_2020.pdf,agency_modality_controlled,4,0.02326426,0.41435942
+doc_0043,"DOW-UAP-D64, Mission Report, Iran, November 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D64__Mission_Report__Iran__November_2020.pdf,agency_modality_controlled,4,-0.19650401,0.045398418
+doc_0042,"DOW-UAP-D63, Mission Report, Strait of Hormuz, October 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D63__Mission_Report__Strait_of_Hormuz__October_2020.pdf,agency_modality_controlled,4,-0.18328367,0.0012231001
+doc_0045,"DOW-UAP-D6, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D6__Mission_Report__Arabian_Gulf__2020.pdf,agency_modality_controlled,1,-0.20527042,-0.216534
+doc_0044,"DOW-UAP-D65, Mission Report, Persian Gulf, July 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D65__Mission_Report__Persian_Gulf__July_2020.pdf,agency_modality_controlled,4,-0.04044568,0.16748157
+doc_0046,"DOW-UAP-D74, Mission Report, Syria, November 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D74__Mission_Report__Syria__November_2023.pdf,agency_modality_controlled,0,0.059908647,0.5175034
+doc_0047,"DOW-UAP-D75, Mission Report, Gulf of Aden, July 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D75__Mission_Report__Gulf_of_Aden__July_2024.pdf,agency_modality_controlled,0,-0.018366346,0.34085634
+doc_0049,"DOW-UAP-D8, Mission Report, Djibouti, 2025",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D8__Mission_Report__Djibouti__2025.pdf,agency_modality_controlled,1,-0.19225104,-0.22730222
+doc_0048,"DOW-UAP-D7, Mission Report, Arabian Gulf, 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-D7__Mission_Report__Arabian_Gulf__2020.pdf,agency_modality_controlled,1,-0.18393405,-0.017149998
+doc_0050,"DOW-UAP-PR19, Unresolved UAP Report, Middle East, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR19__Unresolved_UAP_Report__Middle_East__May_2022.pdf,agency_modality_controlled,0,0.03848316,0.5251183
+doc_0051,"DOW-UAP-PR20, Unresolved UAP Report, Kuwait, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR20__Unresolved_UAP_Report__Kuwait__May_2022.pdf,agency_modality_controlled,1,-0.27821764,-0.084829524
+doc_0052,"DOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR21__Unresolved_UAP_Report__Iraq__May_2022.pdf,agency_modality_controlled,0,0.12721094,0.48032448
+doc_0053,"DOW-UAP-PR22, Unresolved UAP Report, Syria, July 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR22__Unresolved_UAP_Report__Syria__July_2022.pdf,agency_modality_controlled,0,-0.06336422,0.32726252
+doc_0055,"DOW-UAP-PR26, Unresolved UAP Report, United Arab Emirates, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR26__Unresolved_UAP_Report__United_Arab_Emirates__October_2023.pdf,agency_modality_controlled,0,0.07478092,0.5862294
+doc_0056,"DOW-UAP-PR27, Unresolved UAP Report, United Arab Emirates, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR27__Unresolved_UAP_Report__United_Arab_Emirates__October_2023.pdf,agency_modality_controlled,0,0.09661741,0.59394956
+doc_0054,"DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR23__Unresolved_UAP_Report__Iraq__December_2022.pdf,agency_modality_controlled,0,0.07910915,0.5350076
+doc_0057,"DOW-UAP-PR31, Unresolved UAP Report, Syria, October 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR31__Unresolved_UAP_Report__Syria__October_2024.pdf,agency_modality_controlled,0,-0.010649071,0.5440549
+doc_0058,"DOW-UAP-PR32, Unresolved UAP Report, Syria, October 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR32__Unresolved_UAP_Report__Syria__October_2024.pdf,agency_modality_controlled,0,-0.022132713,0.5141665
+doc_0059,"DOW-UAP-PR33, Unresolved UAP Report, Syria, October 2024",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR33__Unresolved_UAP_Report__Syria__October_2024.pdf,agency_modality_controlled,0,-0.024457967,0.50240695
+doc_0060,"DOW-UAP-PR34, Unresolved UAP Report, Greece, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR34__Unresolved_UAP_Report__Greece__October_2023.pdf,agency_modality_controlled,0,0.016703289,0.2791354
+doc_0061,"DOW-UAP-PR35, Unresolved UAP Report, Greece, October 2023",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR35__Unresolved_UAP_Report__Greece__October_2023.pdf,agency_modality_controlled,0,0.0065225135,0.26987314
+doc_0063,Western US Event,Department of War,PDF,ufo_release/Department of War/PDF/Western_US_Event.pdf,agency_modality_controlled,1,-0.26955706,-0.10700348
+doc_0062,"DOW-UAP-PR36, Unresolved UAP Report, Middle East, May 2020",Department of War,PDF,ufo_release/Department of War/PDF/DOW-UAP-PR36__Unresolved_UAP_Report__Middle_East__May_2020.pdf,agency_modality_controlled,1,-0.25808796,-0.15196112
+doc_0064,"DOW-UAP-D10, Mission Report, Middle East, May 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D10__Mission_Report__Middle_East__May_2022.mp4,agency_modality_controlled,1,-0.17086282,-0.34657434
+doc_0067,"DOW-UAP-D18, Mission Report, Iraq, December 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D18__Mission_Report__Iraq__December_2022.mp4,agency_modality_controlled,1,-0.1078612,-0.1676392
+doc_0065,"DOW-UAP-D14, Mission Report, Iraq, May 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D14__Mission_Report__Iraq__May_2022.mp4,agency_modality_controlled,1,-0.1677593,-0.23936784
+doc_0069,"DOW-UAP-D32, Mission Report, Syria, October 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D32__Mission_Report__Syria__October_2024.mp4,agency_modality_controlled,1,-0.15454553,-0.2782076
+doc_0070,"DOW-UAP-D33, Mission Report, Greece, October 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D33__Mission_Report__Greece__October_2023.mp4,agency_modality_controlled,1,-0.0884238,-0.25786796
+doc_0066,"DOW-UAP-D16, Mission Report, Syria, July 2022",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D16__Mission_Report__Syria__July_2022.mp4,agency_modality_controlled,1,-0.08522297,-0.048296995
+doc_0072,"DOW-UAP-D38, Range Fouler Debrief, Middle East, May 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D38__Range_Fouler_Debrief__Middle_East__May_2020.mp4,agency_modality_controlled,2,-0.0070285997,-0.37579387
+doc_0071,"DOW-UAP-D35, Mission Report, Greece, October 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D35__Mission_Report__Greece__October_2023.mp4,agency_modality_controlled,0,0.13611394,0.25879353
+doc_0075,"DOW-UAP-PR37, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR37__Unresolved_UAP_Report__Middle_East__2020.mp4,agency_modality_controlled,1,-0.08268848,-0.2632362
+doc_0068,"DOW-UAP-D23, Mission Report, United Arab Emirates, October 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-D23__Mission_Report__United_Arab_Emirates__October_2023.mp4,agency_modality_controlled,0,0.10849826,0.4473842
+doc_0074,"DOW-UAP-PR29, Unresolved UAP Report, United Arab Emirates, June 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR29__Unresolved_UAP_Report__United_Arab_Emirates__June_2024.mp4,agency_modality_controlled,0,0.14544003,0.29847872
+doc_0077,"DOW-UAP-PR39, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR39__Unresolved_UAP_Report__Middle_East__2020.mp4,agency_modality_controlled,1,-0.14038888,-0.32468677
+doc_0073,"DOW-UAP-PR28, Unresolved UAP Report, Greece, January 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR28__Unresolved_UAP_Report__Greece__January_2024.mp4,agency_modality_controlled,0,0.1817886,0.30580053
+doc_0080,"DOW-UAP-PR42, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR42__Unresolved_UAP_Report__Middle_East__2020.mp4,agency_modality_controlled,2,-0.013570397,-0.35938156
+doc_0076,"DOW-UAP-PR38, Unresolved UAP Report, Middle East, 2013",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR38__Unresolved_UAP_Report__Middle_East__2013.mp4,agency_modality_controlled,0,0.28616878,0.37489215
+doc_0081,"DOW-UAP-PR43, Unresolved UAP Report, Africa, 2025",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR43__Unresolved_UAP_Report__Africa__2025.mp4,agency_modality_controlled,1,-0.08756671,-0.25059193
+doc_0082,"DOW-UAP-PR44, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR44__Unresolved_UAP_Report__Middle_East__2020.mp4,agency_modality_controlled,2,0.029649884,-0.33915198
+doc_0078,"DOW-UAP-PR40, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR40__Unresolved_UAP_Report__Middle_East__2020.mp4,agency_modality_controlled,0,0.2433484,0.40501925
+doc_0084,"DOW-UAP-PR46, Unresolved UAP Report, INDOPACOM, 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR46__Unresolved_UAP_Report__INDOPACOM__2024.mp4,agency_modality_controlled,1,-0.115707494,-0.36888397
+doc_0083,"DOW-UAP-PR45, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR45__Unresolved_UAP_Report__Middle_East__2020.mp4,agency_modality_controlled,0,0.074305385,0.30965805
+doc_0085,"DOW-UAP-PR47, Unresolved UAP Report, INDOPACOM, 2023",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR47__Unresolved_UAP_Report__INDOPACOM__2023.mp4,agency_modality_controlled,0,0.1794786,0.20517582
+doc_0088,FBI Photo A1,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A1.png,agency_modality_controlled,4,0.015438106,0.013886494
+doc_0079,"DOW-UAP-PR41, Unresolved UAP Report, Middle East, 2020",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR41__Unresolved_UAP_Report__Middle_East__2020.mp4,agency_modality_controlled,0,0.19313188,0.36458603
+doc_0089,FBI Photo A2,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A2.png,agency_modality_controlled,4,-0.011786182,0.123929456
+doc_0090,FBI Photo A3,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A3.png,agency_modality_controlled,4,0.07027245,0.114260785
+doc_0091,FBI Photo A4,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A4.png,agency_modality_controlled,4,-0.07141501,0.102595545
+doc_0093,FBI Photo A6,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A6.png,agency_modality_controlled,4,0.027584372,0.075359315
+doc_0092,FBI Photo A5,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A5.png,agency_modality_controlled,4,0.025165802,0.059849296
+doc_0094,FBI Photo A7,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A7.png,agency_modality_controlled,4,0.06622564,0.027078887
+doc_0095,FBI Photo A8,FBI,IMG,ufo_release/FBI/IMG/FBI_Photo_A8.png,agency_modality_controlled,4,-0.0061365794,0.044051047
+doc_0096,65_HS1-101634279_100-DE-18221_Serial_844,FBI,PDF,ufo_release/FBI/PDF/65_HS1-101634279_100-DE-18221_Serial_844.pdf,agency_modality_controlled,3,0.48482892,0.0060878443
+doc_0097,65_HS1-101634279_100-DE-26505,FBI,PDF,ufo_release/FBI/PDF/65_HS1-101634279_100-DE-26505.pdf,agency_modality_controlled,3,0.6596491,0.01777527
+doc_0087,"DOW-UAP-PR49, Unresolved UAP Report, Department of the Army, 2026",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR49__Unresolved_UAP_Report__Department_of_the_Army__2026.mp4,agency_modality_controlled,0,0.11405352,0.1394916
+doc_0086,"DOW-UAP-PR48, Unresolved UAP Report, INDOPACOM, 2024",Department of War,VID,ufo_release/Department of War/VID/DOW-UAP-PR48__Unresolved_UAP_Report__INDOPACOM__2024.mp4,agency_modality_controlled,0,0.30523846,0.28210694
+doc_0098,65_HS1-834228961_62-HQ-83894_SUB_A,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_SUB_A.pdf,agency_modality_controlled,3,0.89246505,-0.07764536
+doc_0099,65_HS1-834228961_62-HQ-83894_Section_1,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_1.pdf,agency_modality_controlled,3,0.9342942,-0.11345527
+doc_0100,65_HS1-834228961_62-HQ-83894_Section_10,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_10.pdf,agency_modality_controlled,3,0.9344223,-0.059357602
+doc_0101,65_HS1-834228961_62-HQ-83894_Section_2,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_2.pdf,agency_modality_controlled,3,0.94014424,-0.08996478
+doc_0102,65_HS1-834228961_62-HQ-83894_Section_3,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_3.pdf,agency_modality_controlled,3,0.90715855,-0.096511886
+doc_0103,65_HS1-834228961_62-HQ-83894_Section_4,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_4.pdf,agency_modality_controlled,3,0.9548655,-0.103796974
+doc_0104,65_HS1-834228961_62-HQ-83894_Section_5,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_5.pdf,agency_modality_controlled,3,0.94726557,-0.09178748
+doc_0105,65_HS1-834228961_62-HQ-83894_Section_6,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_6.pdf,agency_modality_controlled,3,0.96339506,-0.089381
+doc_0106,65_HS1-834228961_62-HQ-83894_Section_7,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_7.pdf,agency_modality_controlled,3,0.9622406,-0.089591786
+doc_0107,65_HS1-834228961_62-HQ-83894_Section_8,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_8.pdf,agency_modality_controlled,3,0.95505697,-0.059779786
+doc_0108,65_HS1-834228961_62-HQ-83894_Section_9,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_9.pdf,agency_modality_controlled,3,0.94942164,-0.041700047
+doc_0109,65_HS1-834228961_62-HQ-83894_Serial_130,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_130.pdf,agency_modality_controlled,3,0.8837101,-0.057078604
+doc_0110,65_HS1-834228961_62-HQ-83894_Serial_153,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_153.pdf,agency_modality_controlled,3,0.65432835,-0.12832026
+doc_0111,65_HS1-834228961_62-HQ-83894_Serial_164,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_164.pdf,agency_modality_controlled,3,0.79664534,-0.044568464
+doc_0112,65_HS1-834228961_62-HQ-83894_Serial_220,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_220.pdf,agency_modality_controlled,3,0.6762195,-0.08422824
+doc_0114,65_HS1-834228961_62-HQ-83894_Serial_438,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_438.pdf,agency_modality_controlled,3,0.72610873,-0.055715162
+doc_0113,65_HS1-834228961_62-HQ-83894_Serial_403,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_403.pdf,agency_modality_controlled,3,0.61403364,-0.08808261
+doc_0115,65_HS1-834228961_62-HQ-83894_Serial_449,FBI,PDF,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_449.pdf,agency_modality_controlled,3,0.7987397,-0.112756856
+doc_0118,FBI Photo B11,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B11.pdf,agency_modality_controlled,1,-0.8599475,-0.09084951
+doc_0117,FBI Photo B10,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B10.pdf,agency_modality_controlled,1,-0.8394758,-0.07638133
+doc_0116,FBI Photo B1,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B1.pdf,agency_modality_controlled,1,-0.83540535,-0.055274494
+doc_0119,FBI Photo B12,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B12.pdf,agency_modality_controlled,1,-0.85300195,-0.043620676
+doc_0120,FBI Photo B13,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B13.pdf,agency_modality_controlled,1,-0.80306727,-0.030009631
+doc_0121,FBI Photo B14,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B14.pdf,agency_modality_controlled,1,-0.845767,-0.09271995
+doc_0122,FBI Photo B15,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B15.pdf,agency_modality_controlled,1,-0.8373289,-0.076857276
+doc_0123,FBI Photo B16,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B16.pdf,agency_modality_controlled,1,-0.8491992,-0.070812345
+doc_0124,FBI Photo B17,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B17.pdf,agency_modality_controlled,1,-0.7928846,-0.072714105
+doc_0126,FBI Photo B19,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B19.pdf,agency_modality_controlled,1,-0.7697131,-0.08758495
+doc_0125,FBI Photo B18,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B18.pdf,agency_modality_controlled,1,-0.7998701,-0.05583532
+doc_0128,FBI Photo B20,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B20.pdf,agency_modality_controlled,1,-0.8413192,-0.10618327
+doc_0127,FBI Photo B2,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B2.pdf,agency_modality_controlled,1,-0.8545699,-0.08344097
+doc_0130,FBI Photo B22,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B22.pdf,agency_modality_controlled,1,-0.7958902,-0.0379602
+doc_0129,FBI Photo B21,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B21.pdf,agency_modality_controlled,1,-0.85388047,-0.08333321
+doc_0131,FBI Photo B23,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B23.pdf,agency_modality_controlled,1,-0.8160113,-0.10284029
+doc_0132,FBI Photo B24,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B24.pdf,agency_modality_controlled,1,-0.83232945,-0.08510018
+doc_0134,FBI Photo B4,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B4.pdf,agency_modality_controlled,1,-0.8324997,-0.061098278
+doc_0133,FBI Photo B3,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B3.pdf,agency_modality_controlled,1,-0.8069666,-0.0532925
+doc_0135,FBI Photo B5,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B5.pdf,agency_modality_controlled,1,-0.8096803,-0.061912537
+doc_0136,FBI Photo B6,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B6.pdf,agency_modality_controlled,1,-0.7976061,-0.045674436
+doc_0138,FBI Photo B8,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B8.pdf,agency_modality_controlled,1,-0.8107599,-0.07655193
+doc_0137,FBI Photo B7,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B7.pdf,agency_modality_controlled,1,-0.8109084,-0.058136668
+doc_0139,FBI Photo B9,FBI,PDF,ufo_release/FBI/PDF/FBI_Photo_B9.pdf,agency_modality_controlled,1,-0.8465825,-0.06943779
+doc_0140,FBI September 2023 Sighting - Composite Sketch,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Composite_Sketch.pdf,agency_modality_controlled,0,-0.030012196,0.052512407
+doc_0141,FBI September 2023 Sighting - Serial 3,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Serial_3.pdf,agency_modality_controlled,0,0.34977916,0.43889344
+doc_0142,FBI September 2023 Sighting - Serial 4,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Serial_4.pdf,agency_modality_controlled,0,0.35802215,0.46261647
+doc_0143,FBI September 2023 Sighting - Serial 5,FBI,PDF,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Serial_5.pdf,agency_modality_controlled,0,0.363588,0.45195824
+doc_0144,"NASA-UAP-VM1, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM1__Apollo_12__1969.jpg,agency_modality_controlled,0,-0.025612544,-0.16347946
+doc_0145,"NASA-UAP-VM2, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM2__Apollo_12__1969.jpg,agency_modality_controlled,0,0.118725605,-0.11935439
+doc_0146,"NASA-UAP-VM3, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM3__Apollo_12__1969.jpg,agency_modality_controlled,0,0.06869064,-0.12542951
+doc_0147,"NASA-UAP-VM4, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM4__Apollo_12__1969.jpg,agency_modality_controlled,0,-0.020832278,-0.12587515
+doc_0150,255_413270_UFO's_and_Defense_What_Should_we_Prepare_For,NASA,PDF,ufo_release/NASA/PDF/255_413270_UFO_s_and_Defense_What_Should_we_Prepare_For.pdf,agency_modality_controlled,2,0.071639016,-0.00497472
+doc_0149,"NASA-UAP-VM6, Apollo 17, 1972",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM6__Apollo_17__1972.jpg,agency_modality_controlled,0,0.018141897,-0.06571135
+doc_0148,"NASA-UAP-VM5, Apollo 12, 1969",NASA,IMG,ufo_release/NASA/IMG/NASA-UAP-VM5__Apollo_12__1969.jpg,agency_modality_controlled,0,0.09626384,-0.15249091
+doc_0151,255_t_763_r1b_transcripts,NASA,PDF,ufo_release/NASA/PDF/255_t_763_r1b_transcripts.pdf,agency_modality_controlled,4,-0.039841335,-0.040825456
+doc_0152,"NASA-UAP-D1, Apollo 12 Transcript, 1969",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D1__Apollo_12_Transcript__1969.pdf,agency_modality_controlled,4,0.044073146,0.05960012
+doc_0153,"NASA-UAP-D2, Apollo 17 Transcript, 1972",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D2__Apollo_17_Transcript__1972.pdf,agency_modality_controlled,4,0.09344162,0.1864522
+doc_0156,"NASA-UAP-D5, Apollo 17 Crew Debriefing for Science, 1973",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D5__Apollo_17_Crew_Debriefing_for_Science__1973.pdf,agency_modality_controlled,4,0.10625266,0.05799115
+doc_0154,"NASA-UAP-D3, Gemini 7 Transcript, 1965",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D3__Gemini_7_Transcript__1965.pdf,agency_modality_controlled,4,-0.0061244094,-0.033175707
+doc_0155,"NASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D4__Apollo_11_Technical_Crew_Debriefing__1969.pdf,agency_modality_controlled,4,0.12555495,0.065648
+doc_0157,"NASA-UAP-D6, Apollo 17 Technical Crew Debriefing, 1973",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D6__Apollo_17_Technical_Crew_Debriefing__1973.pdf,agency_modality_controlled,4,-0.07398885,0.14118896
+doc_0159,255-t-763-r1b-excerpt,NASA,VID,ufo_release/NASA/VID/255-t-763-r1b-excerpt.mp4,agency_modality_controlled,4,-0.09366954,-0.11655846
+doc_0158,"NASA-UAP-D7, Skylab Techincal Crew Debriefing 1973",NASA,PDF,ufo_release/NASA/PDF/NASA-UAP-D7__Skylab_Techincal_Crew_Debriefing_1973.pdf,agency_modality_controlled,4,0.039477177,0.14312364

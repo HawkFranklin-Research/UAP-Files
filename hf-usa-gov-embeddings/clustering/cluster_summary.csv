@@ -1,0 +1,13 @@
+cluster,Agency,File Group,count
+0,Department of War,PDF,44
+0,Department of War,VID,24
+1,FBI,PDF,25
+1,FBI,IMG,8
+2,Department of State,PDF,6
+2,Department of War,PDF,1
+3,FBI,PDF,23
+3,Department of War,PDF,10
+3,NASA,PDF,9
+3,Department of State,PDF,2
+4,NASA,IMG,6
+4,NASA,VID,1
