@@ -87,6 +87,18 @@ This is the sanity-check layer. It asks whether the first-stage structure is sta
 
 This is the interpretation layer. It translates technical structure into evidence families that can be read by humans and used for case-level coding.
 
+### Analysis 3.0
+
+[`analysis-3.0/`](analysis-3.0) contains the case-level grounding layer:
+
+- candidate case packs
+- file-to-case mapping
+- review templates
+- case-pack summaries
+- grounded interpretation scaffolding
+
+This is the review-planning layer. It shifts the work from file-level triage into candidate case-level evidence packs that a human can validate.
+
 ## Scope
 
 This project is a structured effort to analyze the May 8 release and extend the analysis if additional files appear later.

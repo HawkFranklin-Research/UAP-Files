@@ -32,3 +32,11 @@ temp_pdf*
 doc_*.pdf
 doc_*.png
 doc_*.txt
+
+# Stage 3 generated artifacts with local-path references stay local.
+analysis2b/manual_review/review_sample_annotated.csv
+analysis-3.0/manual_review/
+analysis-3.0/review_packet/review_sample_repaired.csv
+analysis-3.0/case_packs/case_pack_summary.json
+analysis-3.0/case_packs/file_to_case_map.csv
+analysis-3.0/interpretation_templates/anomaly_cards_interpretation_template.md
