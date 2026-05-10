@@ -29,9 +29,11 @@ analysis-2.0/usefulness_proxy/scientific_usefulness_proxy.csv
 *.swo
 *~
 temp_pdf*
+temp_*
 doc_*.pdf
 doc_*.png
 doc_*.txt
+*.ppm
 
 # Stage 3 generated artifacts with local-path references stay local.
 analysis2b/manual_review/review_sample_annotated.csv
