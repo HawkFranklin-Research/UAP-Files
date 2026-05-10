@@ -1,0 +1,76 @@
+review_group,title,agency,file_group,cluster,graph_community,anomaly_rank,usefulness_proxy_score,output_path
+top_anomaly,FBI September 2023 Sighting - Composite Sketch,FBI,PDF,,2,1.0,7,ufo_release/FBI/PDF/FBI_September_2023_Sighting_-_Composite_Sketch.pdf
+top_anomaly,255-t-763-r1b-excerpt,NASA,VID,,1,2.0,7,ufo_release/NASA/VID/255-t-763-r1b-excerpt.mp4
+top_anomaly,65_HS1-101634279_100-DE-18221_Serial_844,FBI,PDF,,1,3.0,7,ufo_release/FBI/PDF/65_HS1-101634279_100-DE-18221_Serial_844.pdf
+top_anomaly,"341_110677_Numerical_File,_5-2500",Department of War,PDF,,1,4.0,7,ufo_release/Department of War/PDF/341_110677_Numerical_File__5-2500.pdf
+top_anomaly,"NASA-UAP-D5, Apollo 17 Crew Debriefing for Science, 1973",NASA,PDF,,1,5.0,5,ufo_release/NASA/PDF/NASA-UAP-D5__Apollo_17_Crew_Debriefing_for_Science__1973.pdf
+top_anomaly,65_HS1-834228961_62-HQ-83894_Serial_403,FBI,PDF,,1,6.0,5,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_403.pdf
+top_anomaly,"State Department UAP Cable 1, Papua New Guinea, January 28, 1985",Department of State,PDF,2.0,0,7.0,7,ufo_release/Department of State/PDF/State_Department_UAP_Cable_1__Papua_New_Guinea__January_28__1985.pdf
+top_anomaly,255_t_763_r1b_transcripts,NASA,PDF,,1,8.0,7,ufo_release/NASA/PDF/255_t_763_r1b_transcripts.pdf
+top_anomaly,255_413270_UFO's_and_Defense_What_Should_we_Prepare_For,NASA,PDF,,1,9.0,5,ufo_release/NASA/PDF/255_413270_UFO_s_and_Defense_What_Should_we_Prepare_For.pdf
+top_anomaly,"State Department UAP Cable 4, Ashgabat, Turkmenistan, November 5, 2004",Department of State,PDF,2.0,0,10.0,7,ufo_release/Department of State/PDF/State_Department_UAP_Cable_4__Ashgabat__Turkmenistan__November_5__2004.pdf
+top_anomaly,341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No.2_2-5300-2-5399,Department of War,PDF,,1,11.0,7,ufo_release/Department of War/PDF/341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No_2_2-5300-2-5399.pdf
+top_anomaly,"DOW-UAP-D49, Launch Summary, Vandenberg AFB, 2000",Department of War,PDF,,1,12.0,6,ufo_release/Department of War/PDF/DOW-UAP-D49__Launch_Summary__Vandenberg_AFB__2000.pdf
+top_anomaly,59_64634_711.5612[7-2852,Department of State,PDF,,1,13.0,6,ufo_release/Department of State/PDF/59_64634_711_5612_7-2852.pdf
+top_anomaly,"State Department UAP Cable 5, Mexico, September 16, 2003",Department of State,PDF,2.0,0,14.0,7,ufo_release/Department of State/PDF/State_Department_UAP_Cable_5__Mexico__September_16__2003.pdf
+top_anomaly,65_HS1-834228961_62-HQ-83894_Serial_220,FBI,PDF,,1,15.0,5,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_220.pdf
+top_anomaly,"NASA-UAP-D6, Apollo 17 Technical Crew Debriefing, 1973",NASA,PDF,,1,16.0,5,ufo_release/NASA/PDF/NASA-UAP-D6__Apollo_17_Technical_Crew_Debriefing__1973.pdf
+top_anomaly,USPER Statement about UAP Sighting,Department of State,PDF,,0,17.0,7,ufo_release/Department of State/PDF/USPER_Statement_about_UAP_Sighting.pdf
+top_anomaly,Western US Event,Department of War,PDF,,0,18.0,7,ufo_release/Department of War/PDF/Western_US_Event.pdf
+top_anomaly,"State Department UAP Cable 3, Tbilisi, Georgia, October 30, 2001",Department of State,PDF,2.0,0,19.0,7,ufo_release/Department of State/PDF/State_Department_UAP_Cable_3__Tbilisi__Georgia__October_30__2001.pdf
+top_anomaly,"NASA-UAP-D7, Skylab Techincal Crew Debriefing 1973",NASA,PDF,,1,20.0,5,ufo_release/NASA/PDF/NASA-UAP-D7__Skylab_Techincal_Crew_Debriefing_1973.pdf
+top_anomaly,59_214434_SP 16 [7.18.1963],Department of State,PDF,,1,21.0,6,ufo_release/Department of State/PDF/59_214434_SP_16__7_18_1963_.pdf
+top_anomaly,"DOW-UAP-D51, Email Correspondence, Pacific Time Zone, March 2023",Department of War,PDF,,0,22.0,7,ufo_release/Department of War/PDF/DOW-UAP-D51__Email_Correspondence__Pacific_Time_Zone__March_2023.pdf
+top_anomaly,"DOW-UAP-D48, Department of the Air Force Report, 1996",Department of War,PDF,,1,23.0,6,ufo_release/Department of War/PDF/DOW-UAP-D48__Department_of_the_Air_Force_Report__1996.pdf
+top_anomaly,331_120752_Numeric_Files_1944–1945_37153_German_Armament_Equipment_Documents,Department of War,PDF,,1,24.0,7,ufo_release/Department of War/PDF/331_120752_Numeric_Files_1944_1945_37153_German_Armament_Equipment_Documents.pdf
+top_anomaly,"State Department UAP Cable 2, Kazakhstan, January 31, 1994",Department of State,PDF,2.0,0,25.0,7,ufo_release/Department of State/PDF/State_Department_UAP_Cable_2__Kazakhstan__January_31__1994.pdf
+cluster_center,"DOW-UAP-D65, Mission Report, Persian Gulf, July 2020",Department of War,PDF,0.0,0,,7,ufo_release/Department of War/PDF/DOW-UAP-D65__Mission_Report__Persian_Gulf__July_2020.pdf
+cluster_center,"DOW-UAP-D27, Mission Report, United Arab Emirates, October 2023",Department of War,PDF,0.0,0,,7,ufo_release/Department of War/PDF/DOW-UAP-D27__Mission_Report__United_Arab_Emirates__October_2023.pdf
+cluster_center,"DOW-UAP-D61, Mission Report, Persian Gulf, August 2020",Department of War,PDF,0.0,0,,7,ufo_release/Department of War/PDF/DOW-UAP-D61__Mission_Report__Persian_Gulf__August_2020.pdf
+cluster_center,"DOW-UAP-D3, Mission Report, Arabian Gulf, 2020",Department of War,PDF,0.0,0,,5,ufo_release/Department of War/PDF/DOW-UAP-D3__Mission_Report__Arabian_Gulf__2020.pdf
+cluster_center,"DOW-UAP-D63, Mission Report, Strait of Hormuz, October 2020",Department of War,PDF,0.0,0,,7,ufo_release/Department of War/PDF/DOW-UAP-D63__Mission_Report__Strait_of_Hormuz__October_2020.pdf
+cluster_center,FBI Photo B14,FBI,PDF,1.0,2,,7,ufo_release/FBI/PDF/FBI_Photo_B14.pdf
+cluster_center,FBI Photo B16,FBI,PDF,1.0,2,,7,ufo_release/FBI/PDF/FBI_Photo_B16.pdf
+cluster_center,FBI Photo B15,FBI,PDF,1.0,2,,7,ufo_release/FBI/PDF/FBI_Photo_B15.pdf
+cluster_center,FBI Photo B21,FBI,PDF,1.0,2,,7,ufo_release/FBI/PDF/FBI_Photo_B21.pdf
+cluster_center,FBI Photo B12,FBI,PDF,1.0,2,,7,ufo_release/FBI/PDF/FBI_Photo_B12.pdf
+cluster_center,"State Department UAP Cable 2, Kazakhstan, January 31, 1994",Department of State,PDF,2.0,0,25.0,7,ufo_release/Department of State/PDF/State_Department_UAP_Cable_2__Kazakhstan__January_31__1994.pdf
+cluster_center,"State Department UAP Cable 3, Tbilisi, Georgia, October 30, 2001",Department of State,PDF,2.0,0,19.0,7,ufo_release/Department of State/PDF/State_Department_UAP_Cable_3__Tbilisi__Georgia__October_30__2001.pdf
+cluster_center,"State Department UAP Cable 4, Ashgabat, Turkmenistan, November 5, 2004",Department of State,PDF,2.0,0,10.0,7,ufo_release/Department of State/PDF/State_Department_UAP_Cable_4__Ashgabat__Turkmenistan__November_5__2004.pdf
+cluster_center,"State Department UAP Cable 5, Mexico, September 16, 2003",Department of State,PDF,2.0,0,14.0,7,ufo_release/Department of State/PDF/State_Department_UAP_Cable_5__Mexico__September_16__2003.pdf
+cluster_center,"State Department UAP Cable 1, Papua New Guinea, January 28, 1985",Department of State,PDF,2.0,0,7.0,7,ufo_release/Department of State/PDF/State_Department_UAP_Cable_1__Papua_New_Guinea__January_28__1985.pdf
+cluster_center,65_HS1-834228961_62-HQ-83894_Section_6,FBI,PDF,3.0,1,,5,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_6.pdf
+cluster_center,65_HS1-834228961_62-HQ-83894_Section_9,FBI,PDF,3.0,1,,5,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_9.pdf
+cluster_center,65_HS1-834228961_62-HQ-83894_Section_10,FBI,PDF,3.0,1,,5,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_10.pdf
+cluster_center,65_HS1-834228961_62-HQ-83894_Section_8,FBI,PDF,3.0,1,,5,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_8.pdf
+cluster_center,65_HS1-834228961_62-HQ-83894_Section_7,FBI,PDF,3.0,1,,5,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_7.pdf
+cluster_center,"NASA-UAP-VM3, Apollo 12, 1969",NASA,IMG,4.0,1,,8,ufo_release/NASA/IMG/NASA-UAP-VM3__Apollo_12__1969.jpg
+cluster_center,"NASA-UAP-VM1, Apollo 12, 1969",NASA,IMG,4.0,1,,8,ufo_release/NASA/IMG/NASA-UAP-VM1__Apollo_12__1969.jpg
+cluster_center,"NASA-UAP-VM4, Apollo 12, 1969",NASA,IMG,4.0,1,,8,ufo_release/NASA/IMG/NASA-UAP-VM4__Apollo_12__1969.jpg
+cluster_center,"NASA-UAP-VM5, Apollo 12, 1969",NASA,IMG,4.0,1,,8,ufo_release/NASA/IMG/NASA-UAP-VM5__Apollo_12__1969.jpg
+cluster_center,"NASA-UAP-VM6, Apollo 17, 1972",NASA,IMG,4.0,1,,8,ufo_release/NASA/IMG/NASA-UAP-VM6__Apollo_17__1972.jpg
+random_baseline,38_143685_box7_Incident_Summaries_1-100,Department of War,PDF,,1,,5,ufo_release/Department of War/PDF/38_143685_box7_Incident_Summaries_1-100.pdf
+random_baseline,38_143685_box_Incident_Summaries_101-172,Department of War,PDF,,1,,5,ufo_release/Department of War/PDF/38_143685_box_Incident_Summaries_101-172.pdf
+random_baseline,"DOW-UAP-D44, Range Fouler Reporting Form, Gulf of Aden, October 2020",Department of War,PDF,,0,,7,ufo_release/Department of War/PDF/DOW-UAP-D44__Range_Fouler_Reporting_Form__Gulf_of_Aden__October_2020.pdf
+random_baseline,"DOW-UAP-D4, Mission Report, Arabian Gulf, 2020",Department of War,PDF,,0,,5,ufo_release/Department of War/PDF/DOW-UAP-D4__Mission_Report__Arabian_Gulf__2020.pdf
+random_baseline,"DOW-UAP-D50, Email Correspondence, INDOPACOM, April 2025",Department of War,PDF,,0,,6,ufo_release/Department of War/PDF/DOW-UAP-D50__Email_Correspondence__INDOPACOM__April_2025.pdf
+random_baseline,"DOW-UAP-D55, Mission Report, Syria, November 2016",Department of War,PDF,,0,,7,ufo_release/Department of War/PDF/DOW-UAP-D55__Mission_Report__Syria__November_2016.pdf
+random_baseline,"DOW-UAP-D75, Mission Report, Gulf of Aden, July 2024",Department of War,PDF,,0,,7,ufo_release/Department of War/PDF/DOW-UAP-D75__Mission_Report__Gulf_of_Aden__July_2024.pdf
+random_baseline,"DOW-UAP-D8, Mission Report, Djibouti, 2025",Department of War,PDF,,0,,6,ufo_release/Department of War/PDF/DOW-UAP-D8__Mission_Report__Djibouti__2025.pdf
+random_baseline,"DOW-UAP-D7, Mission Report, Arabian Gulf, 2020",Department of War,PDF,,0,,5,ufo_release/Department of War/PDF/DOW-UAP-D7__Mission_Report__Arabian_Gulf__2020.pdf
+random_baseline,"DOW-UAP-PR20, Unresolved UAP Report, Kuwait, May 2022",Department of War,PDF,,0,,6,ufo_release/Department of War/PDF/DOW-UAP-PR20__Unresolved_UAP_Report__Kuwait__May_2022.pdf
+random_baseline,"DOW-UAP-PR27, Unresolved UAP Report, United Arab Emirates, October 2023",Department of War,PDF,,0,,6,ufo_release/Department of War/PDF/DOW-UAP-PR27__Unresolved_UAP_Report__United_Arab_Emirates__October_2023.pdf
+random_baseline,"DOW-UAP-PR39, Unresolved UAP Report, Middle East, 2020",Department of War,VID,,3,,6,ufo_release/Department of War/VID/DOW-UAP-PR39__Unresolved_UAP_Report__Middle_East__2020.mp4
+random_baseline,FBI Photo A1,FBI,IMG,,5,,7,ufo_release/FBI/IMG/FBI_Photo_A1.png
+random_baseline,FBI Photo A6,FBI,IMG,,5,,7,ufo_release/FBI/IMG/FBI_Photo_A6.png
+random_baseline,FBI Photo A7,FBI,IMG,,5,,7,ufo_release/FBI/IMG/FBI_Photo_A7.png
+random_baseline,"DOW-UAP-PR48, Unresolved UAP Report, INDOPACOM, 2024",Department of War,VID,,4,,6,ufo_release/Department of War/VID/DOW-UAP-PR48__Unresolved_UAP_Report__INDOPACOM__2024.mp4
+random_baseline,65_HS1-834228961_62-HQ-83894_Section_1,FBI,PDF,,1,,5,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_1.pdf
+random_baseline,65_HS1-834228961_62-HQ-83894_Section_5,FBI,PDF,,1,,5,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_5.pdf
+random_baseline,65_HS1-834228961_62-HQ-83894_Serial_449,FBI,PDF,,1,,5,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_449.pdf
+random_baseline,FBI Photo B20,FBI,PDF,,2,,7,ufo_release/FBI/PDF/FBI_Photo_B20.pdf
+random_baseline,FBI Photo B22,FBI,PDF,,2,,7,ufo_release/FBI/PDF/FBI_Photo_B22.pdf
+random_baseline,FBI Photo B3,FBI,PDF,,2,,7,ufo_release/FBI/PDF/FBI_Photo_B3.pdf
+random_baseline,FBI Photo B9,FBI,PDF,,2,,7,ufo_release/FBI/PDF/FBI_Photo_B9.pdf
+random_baseline,"NASA-UAP-D1, Apollo 12 Transcript, 1969",NASA,PDF,,1,,7,ufo_release/NASA/PDF/NASA-UAP-D1__Apollo_12_Transcript__1969.pdf
+random_baseline,"NASA-UAP-D2, Apollo 17 Transcript, 1972",NASA,PDF,,1,,7,ufo_release/NASA/PDF/NASA-UAP-D2__Apollo_17_Transcript__1972.pdf

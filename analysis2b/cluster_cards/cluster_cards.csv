@@ -1,0 +1,45 @@
+cluster,rank_within_cluster,title,agency,file_group,incident_date,incident_location,distance_to_cluster_center,output_path,document_id
+0,1,"DOW-UAP-D65, Mission Report, Persian Gulf, July 2020",Department of War,PDF,7/16/20,Persian Gulf,0.03731179237365723,ufo_release/Department of War/PDF/DOW-UAP-D65__Mission_Report__Persian_Gulf__July_2020.pdf,doc_0044
+0,2,"DOW-UAP-D27, Mission Report, United Arab Emirates, October 2023",Department of War,PDF,6/7/24,Gulf of Oman,0.04036802053451538,ufo_release/Department of War/PDF/DOW-UAP-D27__Mission_Report__United_Arab_Emirates__October_2023.pdf,doc_0022
+0,3,"DOW-UAP-D61, Mission Report, Persian Gulf, August 2020",Department of War,PDF,8/27/20,Persian Gulf,0.04236549139022827,ufo_release/Department of War/PDF/DOW-UAP-D61__Mission_Report__Persian_Gulf__August_2020.pdf,doc_0040
+0,4,"DOW-UAP-D3, Mission Report, Arabian Gulf, 2020",Department of War,PDF,,,0.043857038021087646,ufo_release/Department of War/PDF/DOW-UAP-D3__Mission_Report__Arabian_Gulf__2020.pdf,doc_0024
+0,5,"DOW-UAP-D63, Mission Report, Strait of Hormuz, October 2020",Department of War,PDF,10/1/20,Strait of Hormuz,0.0442347526550293,ufo_release/Department of War/PDF/DOW-UAP-D63__Mission_Report__Strait_of_Hormuz__October_2020.pdf,doc_0042
+0,6,"DOW-UAP-PR39, Unresolved UAP Report, Middle East, 2020",Department of War,VID,,Arabian Gulf,0.04472285509109497,ufo_release/Department of War/VID/DOW-UAP-PR39__Unresolved_UAP_Report__Middle_East__2020.mp4,doc_0077
+0,7,"DOW-UAP-D64, Mission Report, Iran, November 2020",Department of War,PDF,11/2/20,Iran,0.044913530349731445,ufo_release/Department of War/PDF/DOW-UAP-D64__Mission_Report__Iran__November_2020.pdf,doc_0043
+0,8,"DOW-UAP-PR37, Unresolved UAP Report, Middle East, 2020",Department of War,VID,,Arabian Gulf,0.047133445739746094,ufo_release/Department of War/VID/DOW-UAP-PR37__Unresolved_UAP_Report__Middle_East__2020.mp4,doc_0075
+0,9,"DOW-UAP-D62, Mission Report, Strait of Hormuz, September 2020",Department of War,PDF,9/16/20,Strait of Hormuz,0.04743051528930664,ufo_release/Department of War/PDF/DOW-UAP-D62__Mission_Report__Strait_of_Hormuz__September_2020.pdf,doc_0041
+0,10,"DOW-UAP-D60, Mission Report, Persian Gulf, August 2020",Department of War,PDF,8/8/20,Persian Gulf,0.0487818717956543,ufo_release/Department of War/PDF/DOW-UAP-D60__Mission_Report__Persian_Gulf__August_2020.pdf,doc_0039
+1,1,FBI Photo B14,FBI,PDF,Late 2025,Western United States,0.013325929641723633,ufo_release/FBI/PDF/FBI_Photo_B14.pdf,doc_0121
+1,2,FBI Photo B16,FBI,PDF,Late 2025,Western United States,0.013761341571807861,ufo_release/FBI/PDF/FBI_Photo_B16.pdf,doc_0123
+1,3,FBI Photo B15,FBI,PDF,Late 2025,Western United States,0.014186978340148926,ufo_release/FBI/PDF/FBI_Photo_B15.pdf,doc_0122
+1,4,FBI Photo B21,FBI,PDF,Late 2025,Western United States,0.014372825622558594,ufo_release/FBI/PDF/FBI_Photo_B21.pdf,doc_0129
+1,5,FBI Photo B12,FBI,PDF,Late 2025,Western United States,0.015032172203063965,ufo_release/FBI/PDF/FBI_Photo_B12.pdf,doc_0119
+1,6,FBI Photo B11,FBI,PDF,Late 2025,Western United States,0.015059351921081543,ufo_release/FBI/PDF/FBI_Photo_B11.pdf,doc_0118
+1,7,FBI Photo B23,FBI,PDF,Late 2025,Western United States,0.01576298475265503,ufo_release/FBI/PDF/FBI_Photo_B23.pdf,doc_0131
+1,8,FBI Photo B2,FBI,PDF,Late 2025,Western United States,0.015969157218933105,ufo_release/FBI/PDF/FBI_Photo_B2.pdf,doc_0127
+1,9,FBI Photo B9,FBI,PDF,Late 2025,Western United States,0.0163496732711792,ufo_release/FBI/PDF/FBI_Photo_B9.pdf,doc_0139
+1,10,FBI Photo B24,FBI,PDF,Late 2025,Western United States,0.01645869016647339,ufo_release/FBI/PDF/FBI_Photo_B24.pdf,doc_0132
+2,1,"State Department UAP Cable 2, Kazakhstan, January 31, 1994",Department of State,PDF,1/27/94,Kazakhstan,0.046147942543029785,ufo_release/Department of State/PDF/State_Department_UAP_Cable_2__Kazakhstan__January_31__1994.pdf,doc_0004
+2,2,"State Department UAP Cable 3, Tbilisi, Georgia, October 30, 2001",Department of State,PDF,10/28/2001-10/29/2001,Georgia,0.04710876941680908,ufo_release/Department of State/PDF/State_Department_UAP_Cable_3__Tbilisi__Georgia__October_30__2001.pdf,doc_0005
+2,3,"State Department UAP Cable 4, Ashgabat, Turkmenistan, November 5, 2004",Department of State,PDF,11/5/04,Turkmenistan,0.05514788627624512,ufo_release/Department of State/PDF/State_Department_UAP_Cable_4__Ashgabat__Turkmenistan__November_5__2004.pdf,doc_0006
+2,4,"State Department UAP Cable 5, Mexico, September 16, 2003",Department of State,PDF,9/12/03,Mexico,0.06732040643692017,ufo_release/Department of State/PDF/State_Department_UAP_Cable_5__Mexico__September_16__2003.pdf,doc_0007
+2,5,"State Department UAP Cable 1, Papua New Guinea, January 28, 1985",Department of State,PDF,1/24/85,Papua New Guinea,0.06851613521575928,ufo_release/Department of State/PDF/State_Department_UAP_Cable_1__Papua_New_Guinea__January_28__1985.pdf,doc_0003
+2,6,USPER Statement about UAP Sighting,Department of State,PDF,Late 2025,United States,0.08852660655975342,ufo_release/Department of State/PDF/USPER_Statement_about_UAP_Sighting.pdf,doc_0008
+2,7,"341_110677_Numerical_File,_5-2500",Department of War,PDF,10/14/55,Azerbaijan,0.0992434024810791,ufo_release/Department of War/PDF/341_110677_Numerical_File__5-2500.pdf,doc_0013
+3,1,65_HS1-834228961_62-HQ-83894_Section_6,FBI,PDF,,,0.02154231071472168,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_6.pdf,doc_0105
+3,2,65_HS1-834228961_62-HQ-83894_Section_9,FBI,PDF,,,0.023273169994354248,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_9.pdf,doc_0108
+3,3,65_HS1-834228961_62-HQ-83894_Section_10,FBI,PDF,,,0.02435469627380371,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_10.pdf,doc_0100
+3,4,65_HS1-834228961_62-HQ-83894_Section_8,FBI,PDF,,,0.024500906467437744,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_8.pdf,doc_0107
+3,5,65_HS1-834228961_62-HQ-83894_Section_7,FBI,PDF,,,0.025137603282928467,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_7.pdf,doc_0106
+3,6,65_HS1-834228961_62-HQ-83894_Section_4,FBI,PDF,,,0.025263547897338867,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_4.pdf,doc_0103
+3,7,65_HS1-834228961_62-HQ-83894_Section_5,FBI,PDF,,,0.026021957397460938,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_5.pdf,doc_0104
+3,8,65_HS1-834228961_62-HQ-83894_Section_2,FBI,PDF,,,0.026424765586853027,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_2.pdf,doc_0101
+3,9,65_HS1-834228961_62-HQ-83894_Serial_130,FBI,PDF,,,0.028933703899383545,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Serial_130.pdf,doc_0109
+3,10,65_HS1-834228961_62-HQ-83894_Section_3,FBI,PDF,,,0.02925175428390503,ufo_release/FBI/PDF/65_HS1-834228961_62-HQ-83894_Section_3.pdf,doc_0102
+4,1,"NASA-UAP-VM3, Apollo 12, 1969",NASA,IMG,1969,Moon,0.015117526054382324,ufo_release/NASA/IMG/NASA-UAP-VM3__Apollo_12__1969.jpg,doc_0146
+4,2,"NASA-UAP-VM1, Apollo 12, 1969",NASA,IMG,1969,Moon,0.016721129417419434,ufo_release/NASA/IMG/NASA-UAP-VM1__Apollo_12__1969.jpg,doc_0144
+4,3,"NASA-UAP-VM4, Apollo 12, 1969",NASA,IMG,1969,Moon,0.018176257610321045,ufo_release/NASA/IMG/NASA-UAP-VM4__Apollo_12__1969.jpg,doc_0147
+4,4,"NASA-UAP-VM5, Apollo 12, 1969",NASA,IMG,1969,Moon,0.0194857120513916,ufo_release/NASA/IMG/NASA-UAP-VM5__Apollo_12__1969.jpg,doc_0148
+4,5,"NASA-UAP-VM6, Apollo 17, 1972",NASA,IMG,1972,Moon,0.02332592010498047,ufo_release/NASA/IMG/NASA-UAP-VM6__Apollo_17__1972.jpg,doc_0149
+4,6,"NASA-UAP-VM2, Apollo 12, 1969",NASA,IMG,1969,Moon,0.030051350593566895,ufo_release/NASA/IMG/NASA-UAP-VM2__Apollo_12__1969.jpg,doc_0145
+4,7,255-t-763-r1b-excerpt,NASA,VID,12/5/65,Low Earth Orbit,0.15042853355407715,ufo_release/NASA/VID/255-t-763-r1b-excerpt.mp4,doc_0159

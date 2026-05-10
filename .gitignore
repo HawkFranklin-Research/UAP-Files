@@ -28,3 +28,7 @@ analysis-2.0/usefulness_proxy/scientific_usefulness_proxy.csv
 *.swp
 *.swo
 *~
+temp_pdf*
+doc_*.pdf
+doc_*.png
+doc_*.txt

@@ -75,6 +75,18 @@ This is the discovery layer. It answers what is in the archive and what the firs
 
 This is the sanity-check layer. It asks whether the first-stage structure is stable, whether it is driven by archive mechanics, and which files are worth human attention.
 
+### Analysis 2b
+
+[`analysis2b/`](analysis2b) contains the interpretation and evidence-coding layer:
+
+- cluster humanization
+- bridge-file review
+- anomaly contrast cards
+- manual review packets
+- cluster cards
+
+This is the interpretation layer. It translates technical structure into evidence families that can be read by humans and used for case-level coding.
+
 ## Scope
 
 This project is a structured effort to analyze the May 8 release and extend the analysis if additional files appear later.
