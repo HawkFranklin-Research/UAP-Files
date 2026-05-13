@@ -162,6 +162,9 @@ def plot_embedding_map(clusters: pd.DataFrame, composition: pd.DataFrame) -> Non
     ax.set_ylabel("")
     ax.legend(frameon=False)
 
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout(rect=[0, 0, 1, 0.955])
     fig.savefig(OUT / "named_cluster_embedding_map.png", dpi=240, bbox_inches="tight")
     plt.close(fig)
@@ -234,6 +237,9 @@ def plot_composition_dashboard(clusters: pd.DataFrame, composition: pd.DataFrame
     )
     ax.text(0, 1, text, va="top", ha="left", fontsize=16, linespacing=1.35, bbox={"facecolor": "#FFF9E8", "edgecolor": PALETTE["signal"], "boxstyle": "round,pad=0.75"})
 
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout(rect=[0, 0, 1, 0.955])
     fig.savefig(OUT / "named_cluster_composition_dashboard.png", dpi=240, bbox_inches="tight")
     plt.close(fig)
@@ -295,6 +301,9 @@ def plot_representative_dashboard(clusters: pd.DataFrame, reps: pd.DataFrame) ->
         y -= line_height * 0.35
     ax.set_title("Representative Files Used to Humanize the Clusters", fontweight="bold", loc="left")
 
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout(rect=[0, 0, 1, 0.955])
     fig.savefig(OUT / "named_cluster_representative_files.png", dpi=240, bbox_inches="tight")
     plt.close(fig)

@@ -225,6 +225,9 @@ def run_cluster_stability(index: pd.DataFrame, matrix: np.ndarray) -> None:
     axes[0].set_title("Silhouette by Method")
     axes[1].set_title("Agency Purity")
     axes[2].set_title("Modality Purity")
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout()
     fig.savefig(FIG / "cluster_metrics_overview.png", dpi=220, bbox_inches="tight")
     plt.close(fig)
@@ -233,6 +236,9 @@ def run_cluster_stability(index: pd.DataFrame, matrix: np.ndarray) -> None:
     fig, ax = plt.subplots(figsize=(8, 6))
     sns.heatmap(method_ari, annot=True, fmt=".2f", cmap="crest", ax=ax)
     ax.set_title("Mean Pairwise ARI Across Cluster Runs", fontweight="bold")
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout()
     fig.savefig(FIG / "cluster_stability_heatmap.png", dpi=220, bbox_inches="tight")
     plt.close(fig)
@@ -243,6 +249,9 @@ def run_cluster_stability(index: pd.DataFrame, matrix: np.ndarray) -> None:
     ax.set_title("Consensus Matrix Across Clustering Methods", fontweight="bold")
     ax.set_xlabel("Files sorted by consensus cluster")
     ax.set_ylabel("Files sorted by consensus cluster")
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout()
     fig.savefig(FIG / "consensus_matrix.png", dpi=220, bbox_inches="tight")
     plt.close(fig)
@@ -317,6 +326,9 @@ def run_residual_analysis(index: pd.DataFrame, matrix: np.ndarray) -> None:
     )
     axes[1].set_title("Raw vs Agency+Modality Residual PCA", fontweight="bold")
     axes[1].legend(frameon=False, fontsize=9)
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout()
     fig.savefig(FIG / "residual_validation_overview.png", dpi=220, bbox_inches="tight")
     plt.close(fig)
@@ -367,6 +379,9 @@ def run_cluster_interpretation(index: pd.DataFrame, matrix: np.ndarray) -> np.nd
     axes[1].set_title("Modality Composition by Cluster", fontweight="bold")
     axes[1].set_ylabel("Share")
     axes[1].legend(frameon=False, fontsize=8)
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout()
     fig.savefig(FIG / "cluster_purity_overview.png", dpi=220, bbox_inches="tight")
     plt.close(fig)
@@ -409,6 +424,9 @@ def run_nearest_neighbors(index: pd.DataFrame, matrix: np.ndarray) -> None:
     sns.histplot(neighbors[neighbors["neighbor_rank"] == 1]["cosine_distance"], bins=28, color=PALETTE["ion"], ax=ax)
     ax.set_title("Nearest-Neighbor Distance Distribution", fontweight="bold")
     ax.set_xlabel("Cosine distance to nearest file")
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout()
     fig.savefig(FIG / "nearest_neighbor_distance_distribution.png", dpi=220, bbox_inches="tight")
     plt.close(fig)
@@ -486,6 +504,9 @@ def run_graph_analysis(index: pd.DataFrame, matrix: np.ndarray) -> None:
     )
     ax.set_title("kNN Graph Communities on Embedding PCA", fontweight="bold")
     ax.legend(frameon=False, fontsize=8)
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout()
     fig.savefig(FIG / "embedding_knn_graph.png", dpi=220, bbox_inches="tight")
     plt.close(fig)
@@ -544,6 +565,9 @@ def run_anomaly_validation(index: pd.DataFrame, matrix: np.ndarray, labels: np.n
     fig, ax = plt.subplots(figsize=(11, 9))
     sns.heatmap(corr, annot=True, fmt=".2f", cmap="vlag", center=0, ax=ax)
     ax.set_title("Anomaly Method Rank Correlation", fontweight="bold")
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout()
     fig.savefig(FIG / "anomaly_rank_correlation.png", dpi=220, bbox_inches="tight")
     plt.close(fig)
@@ -556,6 +580,9 @@ def run_anomaly_validation(index: pd.DataFrame, matrix: np.ndarray, labels: np.n
     ax.set_xlabel("Ensemble uniqueness")
     ax.set_ylabel("")
     ax.legend(frameon=False)
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout()
     fig.savefig(FIG / "top_anomaly_method_agreement.png", dpi=220, bbox_inches="tight")
     plt.close(fig)
@@ -615,6 +642,9 @@ def run_review_packet(index: pd.DataFrame, matrix: np.ndarray, labels: np.ndarra
     )
     ax.set_title("Manual Review Packet: Anomalies, Centers, Random Baseline", fontweight="bold")
     ax.legend(frameon=False)
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout()
     fig.savefig(FIG / "review_groups_embedding_map.png", dpi=220, bbox_inches="tight")
     plt.close(fig)
@@ -681,6 +711,9 @@ def run_usefulness_proxy(index: pd.DataFrame) -> None:
         )
         axes[1].set_title("Usefulness Proxy vs Embedding Uniqueness", fontweight="bold")
         axes[1].legend(frameon=False)
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout()
     fig.savefig(FIG / "usefulness_proxy_overview.png", dpi=220, bbox_inches="tight")
     plt.close(fig)

@@ -90,7 +90,7 @@ def build_summary(raw: pd.DataFrame, docs: pd.DataFrame) -> dict:
         "pdf_pages": {
             "known_count": int(docs["pdf_pages"].notna().sum()),
             "total_pages": int(pd.to_numeric(docs["pdf_pages"], errors="coerce").fillna(0).sum()),
-            "max_pages": int(pd.to_numeric(docs["pdf_pages"], errors="coerce").fillna(0).max()),
+            "max_pages": int(pd.to_numeric(docs["pdf_pages"], errors="coerce").max()) if not pd.to_numeric(docs["pdf_pages"], errors="coerce").empty and pd.to_numeric(docs["pdf_pages"], errors="coerce").notna().any() else 0,
         },
         "video_duration_sec": {
             "known_count": int(docs["video_duration_sec"].notna().sum()),
@@ -195,6 +195,9 @@ def plot_inventory(docs: pd.DataFrame, raw: pd.DataFrame, output_path) -> None:
 
     for ax in axes.flat:
         ax.title.set_fontweight("bold")
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout(rect=[0, 0, 1, 0.95])
     output_path.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(output_path, dpi=220, bbox_inches="tight")

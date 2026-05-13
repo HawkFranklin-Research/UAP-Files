@@ -189,6 +189,9 @@ def plot_anomalies(df: pd.DataFrame, output_path: Path) -> None:
 
     for ax in axes.flat:
         ax.title.set_fontweight("bold")
+    import string
+    for i, a in enumerate([ax for ax in fig.axes if ax.get_title() or ax.get_xlabel() or ax.get_ylabel()]):
+        a.text(-0.05, 1.05, string.ascii_uppercase[i], transform=a.transAxes, fontsize=24, fontweight="bold", va="bottom", ha="right")
     fig.tight_layout(rect=[0, 0, 1, 0.95])
     output_path.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(output_path, dpi=220, bbox_inches="tight")
